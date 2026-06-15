@@ -24,9 +24,17 @@ pip install -r requirements.txt
 
 Copy `.env.example` to `.env` and set `GROQ_API_KEY` (free key at console.groq.com). ChromaDB runs fully locally — no other keys required.
 
+Run eval scripts from the project root:
+
+```bash
+python -m scripts.eval_retrieval
+python -m scripts.eval_generation
+python -m scripts.print_random_chunks
+```
+
 ## Data Layout
 
-`data/` contains pre-scraped raw text files, each named `NN_sourcetype_identifier.txt`:
+`data/raw/` contains pre-scraped raw text files, each named `NN_sourcetype_identifier.txt`:
 - `01–08`: Rate My Professors (one file per professor)
 - `09–18`: Coursicle (one file per course)
 - `19–21`: BC CIS Department HTML pages
@@ -45,9 +53,25 @@ Copy `.env.example` to `.env` and set `GROQ_API_KEY` (free key at console.groq.c
 - `top_k = 5` (cosine similarity search against ChromaDB)
 - Chunk metadata must include: `source_type`, `professor_name` (RMP), `course_number` (Coursicle/BC)
 
+## Project Structure
+
+```
+the-unofficial-guide/
+├── app.py              # Gradio UI entry point
+├── docs/planning.md    # Full spec and eval questions
+├── data/raw/           # Pre-scraped source text files
+├── data/cleaned/       # Pipeline-cleaned documents
+├── documents/          # PDF sources
+├── output/             # Generated artifacts (chunks.jsonl)
+├── pipeline/           # Ingestion, chunking, embedding, retrieval, generation
+├── rag/                # RAG orchestration (ask())
+├── scripts/            # Eval and utility scripts
+└── tests/
+```
+
 ## Planning Docs
 
-- `planning.md` — full spec including eval questions, chunking rationale, and architecture diagram
+- `docs/planning.md` — full spec including eval questions, chunking rationale, and architecture diagram
 - `README.md` — submission doc; fill it in section by section after each milestone
 
 ## Milestones Still Ahead

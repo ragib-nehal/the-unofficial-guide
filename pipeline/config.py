@@ -16,7 +16,7 @@ class ChunkParams:
 @dataclass(frozen=True)
 class PipelinePaths:
     root: Path = PROJECT_ROOT
-    data_dir: Path = field(default_factory=lambda: PROJECT_ROOT / "data")
+    data_dir: Path = field(default_factory=lambda: PROJECT_ROOT / "data" / "raw")
     documents_dir: Path = field(default_factory=lambda: PROJECT_ROOT / "documents")
     cleaned_dir: Path = field(default_factory=lambda: PROJECT_ROOT / "data" / "cleaned")
     output_dir: Path = field(default_factory=lambda: PROJECT_ROOT / "output")

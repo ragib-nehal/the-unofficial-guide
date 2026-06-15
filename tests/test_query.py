@@ -3,7 +3,7 @@ import unittest
 
 class QueryBehaviorTests(unittest.TestCase):
     def test_ask_returns_answer_and_programmatic_sources(self):
-        import query
+        import rag.query as query
 
         retrieved_chunks = [
             {"chunk_id": "semantic-1", "match_type": "semantic", "source_file": "source_a.txt"},

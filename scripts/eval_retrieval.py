@@ -1,6 +1,6 @@
 """
-Retrieval evaluation against three questions from planning.md.
-Run from the project root:  python eval_retrieval.py
+Retrieval evaluation against three questions from docs/planning.md.
+Run from the project root:  python -m scripts.eval_retrieval
 """
 from pipeline.retrieve import retrieve
 

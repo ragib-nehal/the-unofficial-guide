@@ -1,6 +1,6 @@
 import gradio as gr
 
-from query import ask
+from rag.query import ask
 
 
 def handle_query(question: str):

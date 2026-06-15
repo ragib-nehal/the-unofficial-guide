@@ -7,7 +7,9 @@ from pathlib import Path
 from typing import Any
 
 
-DEFAULT_CHUNKS_PATH = Path(__file__).with_name("chunks.jsonl")
+from pipeline.config import PROJECT_ROOT
+
+DEFAULT_CHUNKS_PATH = PROJECT_ROOT / "output" / "chunks.jsonl"
 
 
 def load_chunks(path: Path) -> list[dict[str, Any]]:

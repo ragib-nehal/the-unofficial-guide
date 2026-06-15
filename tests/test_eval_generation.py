@@ -3,7 +3,7 @@ import unittest
 
 class EvalGenerationBehaviorTests(unittest.TestCase):
     def test_eval_queries_include_grounded_and_negative_cases(self):
-        import eval_generation
+        from scripts import eval_generation
 
         questions = [entry["question"] for entry in eval_generation.TEST_QUERIES]
 

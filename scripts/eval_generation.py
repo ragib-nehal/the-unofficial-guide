@@ -1,6 +1,6 @@
 from __future__ import annotations
 
-from query import ask
+from rag.query import ask
 
 TEST_QUERIES = [
     {
