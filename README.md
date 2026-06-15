@@ -1,4 +1,4 @@
-# The Unofficial Guide — Project 1
+# The Unofficial Guide
 
 **Video / Demo:** [Watch the demo on Loom](https://www.loom.com/share/ace5c267589044e981bcae4a4e941f11)
 
