@@ -75,6 +75,8 @@ Because my sources mix short user reviews, structured course pages, and a long d
 
 **Final chunk count:**
 
+173 chunks total across 22 documents.
+
 ---
 
 ## Embedding Model

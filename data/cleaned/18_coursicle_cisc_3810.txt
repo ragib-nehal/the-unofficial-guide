@@ -1,9 +1,8 @@
-https://www.coursicle.com/brooklyncuny/courses/CISC/3810/
+COURSE: CISC 3810
 
-CISC 3810 at BC - 36 Reviews & Ratings, Fall 2026 professors
-CISC at BC
-CISC 3810 - Database Systems
-Professor Reviews
+TITLE: CISC 3810 - Database Systems
+
+REVIEWS:
 Donald Gordon
 •
 3y
@@ -16,22 +15,14 @@ Carlos Cuevas
 Senior
 CISC
 "if i'm late today, i'm going to abandon a flaming car in the junction"
-Read all 36 reviews of CISC 3810
-Recent Professors
-Chavah Levoritz, Joseph Komeh, Carlos Cuevas, Adele Piontnica, Hui Chen, Basak Taylan, Maxim Titley, Richard Khan, Colven Benjamin, Donald Gordon
-Recent Semesters
-Fall 2026, Spring 2026, Fall 2025, Spring 2025, Fall 2024
 Class Size
 25-40
 Credits
 3
-Fall 2026 Sections
-View Fall 2026 sections of CISC 3810
-👟 Track which blocks you've walked in NYC
-We made WalkNYC, an app that helps you walk every block.
 Avg. Professor Rating
 63
-Description
+
+DESCRIPTION:
 3 hours; 3 creditsIntroduction to database systems. Comparison to file processing systems. Data models. Relational, hierarchical, and network systems. Database design. Normal forms. Study of several real-world database management systems, with an emphasis on microcomputer applications. Database recovery query and transaction processing, concurrency. Distributed and object-oriented databases. Prerequisite: Computer and Information Science 3130 [22]. Enrollment Requirements: COMPUTER AND INFORMATION SCIENCE 3130 [22] WITH A GRADE OF C OR HIGHER IS REQUIRED TO TAKE THIS COURSE. Requirement Designation: Regular Liberal Arts.
 Usually Held
 TuTh (9:30am-10:45am), Th (6:30pm-9:10pm), W (6:30pm-9:10pm)

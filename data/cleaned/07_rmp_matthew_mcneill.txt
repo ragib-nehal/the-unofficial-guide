@@ -1,0 +1,25 @@
+PROFESSOR: Matthew Mcneill | Computer Science | Brooklyn College
+---
+QUALITY: 2.0 | DIFFICULTY: 4.0 | COURSE: CISC3115 | DATE: Dec 10th, 2025
+DETAILS: For Credit: Yes | Attendance: Mandatory | Grade: Drop/Withdrawal | Textbook: N/A
+REVIEW: teaches too advanced for an intro class and the school tutoring team confirmed this for me. Constantly asked the class if we have taken data structures but his class is the PRE-REQ for data structures, you would think he knew that... HWs are very long. Doesn't show enough examples, make sure to go to tutoring from the beginning of the semester.
+TAGS: Tough grader, Lots of homework
+---
+QUALITY: 5.0 | DIFFICULTY: 3.0 | COURSE: CISC3115 | DATE: Dec 8th, 2025
+DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Textbook: N/A
+REVIEW: Good professor to actually learn something in this class.
+TAGS: Amazing lectures, Lots of homework, Lecture heavy
+---
+QUALITY: 5.0 | DIFFICULTY: 3.0 | COURSE: CISC3225 | DATE: May 16th, 2025
+DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes
+REVIEW: He is very enthusiastic when teaching and provides notes always. Can be nitpicky when grading, but nonetheless he is a good professor. Would take him again!
+TAGS: Caring, Accessible outside class
+---
+QUALITY: 5.0 | DIFFICULTY: 2.0 | COURSE: CISC3225 | DATE: Mar 31st, 2024
+DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Textbook: Yes
+REVIEW: highly reccomend! cisc1215
+---
+QUALITY: 5.0 | DIFFICULTY: 3.0 | COURSE: cisc1215 | DATE: Dec 7th, 2023
+DETAILS: For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+REVIEW: I took him for Python CS 1215. Highly recommend. His HWs were challenging but his exams are very fair. If you do all the HWs and go to lecture you should do very well.
+TAGS: Gives good feedback, Inspirational, Accessible outside class

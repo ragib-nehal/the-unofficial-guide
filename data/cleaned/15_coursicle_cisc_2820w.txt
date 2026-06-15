@@ -1,9 +1,8 @@
-https://www.coursicle.com/brooklyncuny/courses/CISC/2820W/
+COURSE: CISC 2820W
 
-CISC 2820W at BC - 104 Reviews & Ratings, Fall 2026 professors
-CISC at BC
-CISC 2820W - Computers and Ethics
-Professor Reviews
+TITLE: CISC 2820W - Computers and Ethics
+
+REVIEWS:
 Robert Zwick
 •
 3y
@@ -16,22 +15,14 @@ Joseph Thurm
 Junior
 CISC
 Very good professor; actually one of the few on campus who allows students to express their opinions freely and without judgement in class and in essays. Classes were thought provoking, interesting, and used actual real world examples of how things go wrong due carelessness and negligence. I learned a lot from him and the examples he showed. 10/10
-Read all 104 reviews of CISC 2820W
-Recent Professors
-Robert Zwick, Joseph Thurm, Michael Maumus
-Recent Semesters
-Fall 2026, Spring 2026, Fall 2025, Spring 2025, Fall 2024
 Class Size
 25-45
 Credits
 3
-Fall 2026 Sections
-View Fall 2026 sections of CISC 2820W
-👟 Track which blocks you've walked in NYC
-We made WalkNYC, an app that helps you walk every block.
 Avg. Professor Rating
 71
-Description
+
+DESCRIPTION:
 3 hours; 3 creditsAnalysis of ethical issues pertaining to computers and the workplace, anonymity and privacy, copyright and patent law (as applied to software), computer crime, security, unauthorized use, codes of conduct for computer professionals, access and availability of computing technologies. Application of theoretical frameworks such as virtue ethics, deontological theories andutilitarianism to the ethical problems encountered in computing technologies. Writing intensive course. (This course is the same as Philosophy 3318W [14.4W].)Prerequisite: Core Curriculum 1312 [3.12] or Core Studies 5.1 or Computer and Information Science 1000 [1.0] or Computer and Information Science 1110 [1.5] or 1115; and English 1012 [2]. Class Notes: SAME AS PHIL 3318W. Enrollment Requirements: CORE CURRIC 1312 [3.12], CORE STUDIES 5.1, COMPUTER & INFORMATION SCIENCE 1000 [1.0], 1110 [1.5], 1115, BOTH 1113 & 1114, 1170, OR 1180 MIN GRADE C; & ENGLISH 1012 ARE REQUIRED. PASSED CISC 2820W MIN GRADE C OR PHILOSOPHY 3318W CANNOT ENROLL. Requirement Designation: Regular Liberal Arts.
 Typical Class Length
 1 hour 15 minutes, 2 hours 40 minutes

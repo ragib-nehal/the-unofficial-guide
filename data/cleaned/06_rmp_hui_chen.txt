@@ -1,0 +1,26 @@
+PROFESSOR: Hui Chen | Computer Science | Brooklyn College
+---
+QUALITY: 4.0 | DIFFICULTY: 2.0 | COURSE: CISC3810 | DATE: May 28th, 2025
+DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: B+ | Textbook: N/A
+REVIEW: Most of the course consists of this group project, you make a database and connect a java application to it, not too difficult. reviews before exams and is very clear and lenient with assignments/project deadlines. didn't study and got 70s on the midterm and final but 100 on the project and homeworks so it carried my grade
+TAGS: Group projects, Accessible outside class
+---
+QUALITY: 1.0 | DIFFICULTY: 5.0 | COURSE: CISC3320 | DATE: Oct 28th, 2024
+DETAILS: For Credit: Yes | Attendance: Not Mandatory | Grade: Drop/Withdrawal | Textbook: N/A
+REVIEW: This prof is like my daddy. He spanked me after I failed the midterm. Only god can help me now.
+TAGS: Tough grader, Get ready to read, Participation matters
+---
+QUALITY: 5.0 | DIFFICULTY: 4.0 | COURSE: CISC3115 | DATE: May 15th, 2024
+DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: N/A
+REVIEW: If you pay attention in class, you will do fine. 6-8 projects, won't use too much time to code, debugging takes awhile with the pickiness of the auto grader. Grading process is fair, if you are a CISC major with a normal work load you will be fine. There are code labs that go over in class topics. wished there was time for the later topics though.
+TAGS: Lots of homework, Caring, Accessible outside class
+---
+QUALITY: 1.0 | DIFFICULTY: 4.0 | COURSE: CISC3115 | DATE: May 13th, 2024
+DETAILS: For Credit: Yes | Attendance: Mandatory | Grade: B+ | Textbook: N/A
+REVIEW: Do not take. Assignments are absurdly long and tedious and have to be submitted through GitHub. Very glitchy and unnecessary process. You can't understand a word he says, very bad English. Incoherent rambling during lecture. Get ready to spend weeks on just 1 assignment cuz the autograder is very picky and will not accept even the slightest errors EXTRA CREDIT
+TAGS: Tough grader, Lots of homework
+---
+QUALITY: 4.0 | DIFFICULTY: 4.0 | COURSE: CISC3171 | DATE: Jan 8th, 2024
+DETAILS: For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A- | Textbook: Yes
+REVIEW: I enjoyed learning from Professor Chen, who is extremely passionate about software engineering. However, learning Android with Java in mobile applications was difficult when we did not receive clear feedback on using design patterns for our apps. Teammates were not held responsible for lack of participation. Fairly grades effort and participation.
+TAGS: Participation matters, Group projects, Caring

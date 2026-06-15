@@ -1,9 +1,8 @@
-https://www.coursicle.com/brooklyncuny/courses/CISC/3410/
+COURSE: CISC 3410
 
-CISC 3410 at BC - 13 Reviews & Ratings, Fall 2026 professors
-CISC at BC
-CISC 3410 - Artificial Intelligence
-Professor Reviews
+TITLE: CISC 3410 - Artificial Intelligence
+
+REVIEWS:
 Rebecca Levitan
 •
 3y
@@ -16,22 +15,14 @@ Neng-Fa Zhou
 Senior
 CISC
 Most of course material is theory available online for free and he only goes over data structures/search algorithms vs. actually showing us anything useful. Made us code in convoluted language he wrote himself, homeworks are tedious, lectures are confusing, and exams are unnecessarily difficult. It's a lot of work for nothing in the end.
-Read all 13 reviews of CISC 3410
-Recent Professors
-Tamoghna Chakraborty, Neh Majmudar, Panneer Santhalingam, Neng-Fa Zhou, Theodore Raphan, Yongqing Xiang, Rebecca Levitan
-Recent Semesters
-Fall 2026, Spring 2026, Fall 2025, Spring 2025, Spring 2024
 Class Size
 40
 Credits
 3
-Fall 2026 Sections
-View Fall 2026 sections of CISC 3410
-👟 Track which blocks you've walked in NYC
-We made WalkNYC, an app that helps you walk every block.
 Avg. Professor Rating
 47
-Description
+
+DESCRIPTION:
 3 hours; 3 creditsTechniques for making computers exhibit intelligent behavior. Topicscovered are taken from the areas of problem solving, perception, gameplaying, knowledge representation, natural language understanding,programs that learn (adaptive programs), expert systems, andprogramming languages for work in artificial intelligence.Prerequisite: Computer and Information Science 21 or 3130 [22]. Enrollment Requirements: COMPUTER AND INFORMATION SCIENCE 21 OR 3130 [22] WITH A GRADE OF C OR HIGHER IS REQUIRED TO TAKE THIS COURSE. Requirement Designation: Regular Liberal Arts.
 Usually Offered
 Tu, MW

@@ -1,9 +1,8 @@
-https://www.coursicle.com/brooklyncuny/courses/CISC/1115/
+COURSE: CISC 1115
 
-CISC 1115 at BC - 260 Reviews & Ratings, Fall 2026 professors
-CISC at BC
-CISC 1115 - Introduction to Programming Using Java
-Professor Reviews
+TITLE: CISC 1115 - Introduction to Programming Using Java
+
+REVIEWS:
 Morris Badrian
 •
 3y
@@ -16,22 +15,14 @@ Yedidyah Langsam
 Junior
 CASD
 DO NOT TAKE THIS PROFESSOR I REPEAT DO NOT TAKE!!!!!! LET ME EXPLAIN HE DOES NOT UPLOAD ANYTHING TO BLACKBOARD HE DOES NOT ACCEPT ASSIGNMENT EMAIL FOR EMAIL OR BLACKBOARD HE WANTS ASSIGNMENTS DONE IN A CERTAIN WAY AND IT'S VERY CONDESCENDING ONE OF THE WORLD'S PROFESSORS I HAVE EVER HAD AND THAT SAYS A LOT
-Read all 260 reviews of CISC 1115
-Recent Professors
-Adele Piontnica, Amara Auguste, Matthew Mcneill, Ira Rudowsky, Minh Le, Dina Sokol, Gerald Weiss, Chaim Ziegler, Gabriel Yarmish, Morgan Wajda-Levie, Basak Taylan, Nechama Ettinger, Moshe Lach, Moshe Trenk, Yongqing Xiang, David Arnow
-Recent Semesters
-Fall 2026, Spring 2026, Fall 2025, Spring 2025, Fall 2024
 Class Size
 22-32
 Credits
 4
-Fall 2026 Sections
-View Fall 2026 sections of CISC 1115
-👟 Track which blocks you've walked in NYC
-We made WalkNYC, an app that helps you walk every block.
 Avg. Professor Rating
 54
-Description
+
+DESCRIPTION:
 3 hours lecture, 2 hours lab; 4 creditsAlgorithms, computers and programs. Writing, debugging, and testing programs. Loops andconditional control structures. Method definition and parameter passing. Arrays, ArrayLists, andStrings. Sorting, searching and other basic algorithms. Input and output. Programmingapplications selected from various disciplines. History and basic concepts of computer science.(Not open to students who have completed Computer and Information Science 1110 [1.5] orComputer and Information Science 1170 or Computer and Information Science 1180.Completion of this course prohibits a student from receiving credit for CISC 1110 or CISC1180.). Class Notes: IN-PERSON MID-TERM AND FINAL EXAMS; DATES AND TIMES TO BE ANNOUNCED; EMAIL: hui.chen@brooklyn.cuny.edu". Enrollment Requirements: NOT OPEN TO STUDENTS WHO HAVE COMPLETED COMPUTER AND INFORMATION SCIENCE 1110 [1.5] OR COMPUTER AND INFORMATION SCIENCE 1170 OR COMPUTER AND INFORMATION SCIENCE 1180 WITH GRADE OF C OR BETTER. Requirement Designation: Regular Liberal Arts.
 Usually Offered
 MW (2 hours 5 minutes), TuTh (2 hours 5 minutes)

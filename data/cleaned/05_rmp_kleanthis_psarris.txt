@@ -1,0 +1,20 @@
+PROFESSOR: Kleanthis Psarris | Computer Science | Brooklyn College
+---
+QUALITY: 4.0 | DIFFICULTY: 4.0 | COURSE: 7221 | DATE: Jun 10th, 2025
+DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: B | Textbook: Yes
+REVIEW: I took his classes as part of the CS Computation Track. He is among the rare contemporary college professors who still push students to strive for more. Though exams stress me and affect my performance, I believe his approach prepares us for the stress of real-life challenges—like designing or operating comp. systems under “battlefield” pressure.
+TAGS: Tough grader, Clear grading criteria, Accessible outside class
+---
+QUALITY: 1.0 | DIFFICULTY: 5.0 | COURSE: 2210 | DATE: Mar 28th, 2025
+DETAILS: For Credit: Yes | Attendance: Mandatory | Grade: F | Textbook: Yes | Online Class: Yes
+REVIEW: The final boss before graduation
+TAGS: Tough grader, Get ready to read, Participation matters
+---
+QUALITY: 1.0 | DIFFICULTY: 5.0 | COURSE: CISC2210 | DATE: Mar 15th, 2025
+DETAILS: For Credit: Yes | Attendance: Not Mandatory | Grade: Rather not say | Textbook: N/A
+REVIEW: Expects everyone to know what he is about to teach. Said if we can't pass his class we should reconsider a career in comp sci. He taught the course, but who learned though? Best students didn't even get an A in this class. Dear Prof. Psarris, this is just an intro to discrete structures, please chill and stop traumatizing students.
+---
+QUALITY: 1.0 | DIFFICULTY: 5.0 | COURSE: 7221 | DATE: Feb 13th, 2025
+DETAILS: Attendance: Not Mandatory | Grade: C | Textbook: N/A
+REVIEW: GPA kille®
+TAGS: Tough grader

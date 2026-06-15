@@ -1,9 +1,8 @@
-https://www.coursicle.com/brooklyncuny/courses/CISC/3320/
+COURSE: CISC 3320
 
-CISC 3320 at BC - 29 Reviews & Ratings, Fall 2026 professors
-CISC at BC
-CISC 3320 - Operating Systems
-Professor Reviews
+TITLE: CISC 3320 - Operating Systems
+
+REVIEWS:
 Miriam Briskman
 •
 3y
@@ -16,22 +15,14 @@ Rivka Levitan
 Senior
 CISC
 Data structure and algorithms - arguably most difficult CS course. However her lecture made it really easy. Regular Participation MATTERS.
-Read all 29 reviews of CISC 3320
-Recent Professors
-Minh Le, Shalva Landy, Morgan Wajda-Levie, Rivka Levitan, Basak Taylan, Panneer Santhalingam, Miriam Briskman, Ariel Zablozki, Yongqing Xiang, Harry Goldberg, Gezim Hakramaj, Hui Chen, Maxim Titley, James Cox
-Recent Semesters
-Fall 2026, Spring 2026, Fall 2025, Spring 2025, Fall 2024
 Class Size
 40
 Credits
 3
-Fall 2026 Sections
-View Fall 2026 sections of CISC 3320
-👟 Track which blocks you've walked in NYC
-We made WalkNYC, an app that helps you walk every block.
 Avg. Professor Rating
 63
-Description
+
+DESCRIPTION:
 3 hours; 3 creditsDesign and implementation of operating systems for large computers.Multiprogramming, multiprocessing, time sharing. Resource allocationand scheduling. Communications, conversational computing, computernetworks. Memory protection, interrupts, segmentation, paging, andvirtual memories.Prerequisite: Computer and Information Science 21 or 3130 [22]; and3305 [27] or 3310 [27.1] or 3315 [28]. It is recommended thatstudents be acquainted with at least two computing platforms (e.g., PC,Macintosh, UNIX workstation, IBM mainframe) before takingComputer and Information Science 3320 [25]. Enrollment Requirements: COMPUTER AND INFORMATION SCIENCE 21 OR 3130 [22]; AND 3305 [27] OR 3310 [27.1] OR 3315 [28], BOTH WITH A GRADE OF C OR HIGHER, ARE REQUIRED TO TAKE THIS COURSE. Requirement Designation: Regular Liberal Arts.
 Typical Class Length
 1 hour 15 minutes, 2 hours 40 minutes

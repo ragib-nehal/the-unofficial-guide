@@ -1,0 +1,24 @@
+PROFESSOR: Robert Zwick | Computer Science | Brooklyn College
+---
+QUALITY: 3.0 | DIFFICULTY: 2.0 | COURSE: CISC1050 | DATE: Dec 29th, 2024
+DETAILS: For Credit: Yes | Attendance: Not Mandatory | Grade: A | Textbook: Yes
+REVIEW: He's not a terrible professor, but there are better options available. If you have the chance to choose a different instructor I recommend doing so. However if he's your only option you'll manage just fine. At times he seems a bit unfit for teaching but if you read the textbook, practice on your own and do assignments an A is easy 2820W
+---
+QUALITY: 4.0 | DIFFICULTY: 3.0 | COURSE: 2820W | DATE: Dec 29th, 2024
+DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: B+ | Textbook: Yes | Online Class: Yes
+REVIEW: Prof. Zwick's 2820W class is manageable if you engage with the material. Lectures align with the free textbook, and he provides ample extra credit opportunities. unstuck study was a helpful study tool alongside the textbook. Staying on top of assignments is key to doing well. 2820W
+---
+QUALITY: 3.0 | DIFFICULTY: 4.0 | COURSE: 2820W | DATE: Dec 26th, 2024
+DETAILS: For Credit: Yes | Attendance: Mandatory | Grade: A+ | Textbook: Yes
+REVIEW: Class is entertaining and engaging. Fails to properly clarify exam content. Not allocating enough time for assignments. Short response writing is labeled as essays, essays are labeled as mini research papers/projects, misleading and confusing. Class is textbook reliant, students must read in its entirety. Fails to respond to emails.
+TAGS: Get ready to read, Amazing lectures, Lots of homework
+---
+QUALITY: 1.0 | DIFFICULTY: 5.0 | COURSE: CISC2820W | DATE: Dec 22nd, 2024
+DETAILS: For Credit: Yes | Attendance: Not Mandatory | Grade: A- | Textbook: Yes
+REVIEW: Assigns an overwhelming amount of work that he doesn't even read and gives an excessive number of tests. His lectures are completely unrelated to the exams and assignments. Only take this class if you have no other classes or work commitments for the semester. 2820W
+TAGS: Get ready to read, Lots of homework, Test heavy
+---
+QUALITY: 4.0 | DIFFICULTY: 2.0 | COURSE: 2820W | DATE: Dec 5th, 2024
+DETAILS: For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Textbook: Yes
+REVIEW: Most of the stuff on exams is in the textbook and yaps all class. Not as bad as people say, just don't expect an email response If you need to contact him. 20 page paper not as hard as it sounds, you can write half and get away with a B.
+TAGS: Get ready to read

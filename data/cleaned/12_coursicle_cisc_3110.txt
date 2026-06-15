@@ -1,9 +1,8 @@
-https://www.coursicle.com/brooklyncuny/courses/CISC/3110/
+COURSE: CISC 3110
 
-CISC 3110 at BC - 48 Reviews & Ratings, Fall 2026 professors
-CISC at BC
-CISC 3110 - Advanced Programming Techniques
-Professor Reviews
+TITLE: CISC 3110 - Advanced Programming Techniques
+
+REVIEWS:
 Chaim Ziegler
 •
 3y
@@ -16,22 +15,14 @@ Gerald Weiss
 Junior
 CSCI
 The best teacher I had. long office hours and cares about you. If you want to know programming,make sure to take him.
-Read all 48 reviews of CISC 3110
-Recent Professors
-James Cox, Ari Mermelstein, Chaim Ziegler, Dina Sokol
-Recent Semesters
-Fall 2017
 Class Size
 35
 Credits
 4
-Fall 2026 Sections
-View Fall 2026 sections of CISC 3110
-👟 Track which blocks you've walked in NYC
-We made WalkNYC, an app that helps you walk every block.
 Avg. Professor Rating
 46
-Description
+
+DESCRIPTION:
 A second course in programming. Advanced programming techniques emphasizing reliability, maintainability, and reusability. Module design and multi-file programs. Abstract data types. Objects, classes, and object-oriented design. Storage class and scope. Addresses, pointers, and dynamic storage allocation. Test suites, test drivers, and testing strategies; debugging, assertions, and an introduction to formal techniques. Recursion and function parameters. (Not open to students who are enrolled in or have completed Computer and Information Science 22.) Prerequisite: Computer and Information Science 1.5 or 2.80. Class Notes: C++. Enrollment Requirements: CISC. 1110 OR CISC. 1180 IS REQUIRED TO TAKE THIS COURSE.
 Typical Class Length
 1 hour 40 minutes, 3 hours 30 minutes

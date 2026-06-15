@@ -1,9 +1,8 @@
-https://www.coursicle.com/brooklyncuny/courses/CISC/3310/
+COURSE: CISC 3310
 
-CISC 3310 at BC - 60 Reviews & Ratings, Fall 2026 professors
-CISC at BC
-CISC 3310 - Principles of Computer Architecture
-Professor Reviews
+TITLE: CISC 3310 - Principles of Computer Architecture
+
+REVIEWS:
 Theodore Raphan
 •
 3y
@@ -16,22 +15,14 @@ James Cox
 Sophomore
 CISC
 He's a nice man but he doesn't teach enough and isn't structured. I had to basically teach myself because his lectures and assignments offered minimal content and insight. I really wish that he cared about teaching because he has the potential but its seldom ever activated. Take him for a good grade, avoid him if you want your knowledge expanded
-Read all 60 reviews of CISC 3310
-Recent Professors
-Priyanka Samanta, Miriam Briskman, Yongqing Xiang, Katherine Chuang, Jinzhen Wang, Joseph Komeh, Hui Chen, James Cox, Vivek Sharma, Tzipora Halevi, Harry Goldberg, Charles Schnabolk, Theodore Raphan
-Recent Semesters
-Fall 2026, Spring 2026, Fall 2025, Spring 2025, Fall 2024
 Class Size
 25-40
 Credits
 4
-Fall 2026 Sections
-View Fall 2026 sections of CISC 3310
-👟 Track which blocks you've walked in NYC
-We made WalkNYC, an app that helps you walk every block.
 Avg. Professor Rating
 55
-Description
+
+DESCRIPTION:
 4 hours; 4 creditsIntroduction to digital logic. Basic digital circuits. Boolean algebra and combinational logic, data representation and transfer, digital arithmetic. Instruction sets. Introduction to assembly languages ALU and memory reference instructions, flow control, subroutine linkage, arrays and structures. Memory. I/O systems. Performance. Relationship between software and architecture. (Not open to students who are enrolled in or have completed Computer andInformation Science 3305 [27] or 3315 [28].)Prerequisite: Computer and Information Science 1110 [1.5], or 1115, or both of 1113 and 1114, or 1170, or 1180 [2.80]; and 2210 [11]. Enrollment Requirements: COMPUTER & INFORMATION SCIENCE 1110[1.5], 1115, 1170 OR 1180 [2.80]; AND COMPUTER AND INFORMATION SCIENCE 2210, BOTH WITH A GRADE C OR HIGHER, ARE REQUIRED. NOT OPEN TO STUDENTS WITH COMPUTER & INFORMATION SCIENCE 3305 OR 3315 WITH GRADE OF C OR HIGHER. Requirement Designation: Regular Liberal Arts.
 Usually Held
 MW (10:35am-12:15pm), M (6:30pm-10:00pm), Th (6:30pm-10:00pm)

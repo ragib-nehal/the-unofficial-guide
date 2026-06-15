@@ -1,9 +1,8 @@
-https://www.coursicle.com/brooklyncuny/courses/CISC/3440/
+COURSE: CISC 3440
 
-CISC 3440 at BC - 9 Reviews & Ratings, Fall 2026 professors
-CISC at BC
-CISC 3440 - Machine Learning
-Professor Reviews
+TITLE: CISC 3440 - Machine Learning
+
+REVIEWS:
 Ariel Zablozki
 •
 4mo
@@ -16,22 +15,14 @@ Panneer Santhalingam
 Senior
 CISC
 If you thought ziegler or zwick was bad, he is even worse. Honestly, he loses track of what he's even teaching and even told the class that he didn't get accepted to any other job but this one. I am also super terrified of his laughs.
-Read all 9 reviews of CISC 3440
-Recent Professors
-Panneer Santhalingam, Ariel Zablozki, Matthew Mcneill, Katherine Chuang, Rebecca Levitan
-Recent Semesters
-Fall 2026, Fall 2025, Fall 2024, Fall 2023, Fall 2022
 Class Size
 40
 Credits
 3
-Fall 2026 Sections
-View Fall 2026 sections of CISC 3440
-👟 Track which blocks you've walked in NYC
-We made WalkNYC, an app that helps you walk every block.
 Avg. Professor Rating
 43
-Description
+
+DESCRIPTION:
 3 hours; 3 credits An introduction to machine learning for students with some mathematical maturity. Topics include: machine learning in relation to artificial intelligence, data sources and characteristics, linear and non-linear regression, machine learning concepts like the bias-variance tradeoff, linear and non-linear classification, hidden Markov models and the expectation-maximization algorithm, unsupervised learning, and deep learning. Examples will be drawn from several domains including natural language processing.Prerequisite: CISC 3130 or 3225, MATH 2501 or 3501 or CISC 2210. Enrollment Requirements: COMPUTER AND INFORMATION SCIENCE 3130 OR 3225 WITH A GRADE OF C OR HIGHER; MATH 2501 OR 3501 WITH A GRADE OF C- OR HIGHER, OR COMPUTER AND INFORMATION SCIENCE 2210 WITH A GRADE OF C OR HIGHER, ARE REQUIRED TO TAKE THIS COURSE. Requirement Designation: Regular Liberal Arts.
 Usually Held
 M (6:30pm-9:10pm), MW (11:00am-12:15pm), TuTh (2:15pm-3:30pm)

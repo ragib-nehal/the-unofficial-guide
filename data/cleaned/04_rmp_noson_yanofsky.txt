@@ -1,0 +1,25 @@
+PROFESSOR: Noson Yanofsky | Computer Science | Brooklyn College
+---
+QUALITY: 5.0 | DIFFICULTY: 3.0 | COURSE: CISC-4800 | DATE: Jun 7th, 2025
+DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
+REVIEW: Even though his book had a lot of mistakes, and this class was a quite difficult one, he made it not that difficult. Excellent teaching style and clear grading criteria, drops the lowest grade out of quizzes. Would definitely take him again.
+---
+QUALITY: 5.0 | DIFFICULTY: 2.0 | COURSE: CC3010 | DATE: May 28th, 2025
+DETAILS: For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: B+ | Textbook: Yes
+REVIEW: professor. Take him.
+TAGS: Inspirational, Lots of homework, Beware of pop quizzes, Respected
+---
+QUALITY: 5.0 | DIFFICULTY: 4.0 | COURSE: CISC3220 | DATE: May 16th, 2025
+DETAILS: For Credit: Yes | Would Take Again: Yes | Textbook: Yes
+REVIEW: This class is a hard class, Professor Yanofsky provides lectures online but still study for them. He is very funny and enthusiastic about what he teaches.
+TAGS: Lecture heavy, Test heavy, Accessible outside class
+---
+QUALITY: 5.0 | DIFFICULTY: 1.0 | COURSE: CISC1002 | DATE: Apr 23rd, 2025
+DETAILS: Would Take Again: Yes | Grade: A
+REVIEW: The best professor I've ever had! He explains everything so clearly that everyone can follow along. I didn't really need to read the textbook. His jokes are hilarious, and his class felt like a great break after a tough day. CISC-4800
+TAGS: Inspirational, Hilarious, Respected
+---
+QUALITY: 2.0 | DIFFICULTY: 5.0 | COURSE: CISC-4800 | DATE: Mar 15th, 2025
+DETAILS: For Credit: Yes | Attendance: Mandatory | Grade: Rather not say | Textbook: Yes
+REVIEW: His book is full of mistakes and lacks examples. When you ask for more, he tells you to provide them for his book. Topics feel rushed with no examples, and homework is not checked, with no answer sheet. Instead of focusing on computer science, he turns the course into physics and linear algebra, making learning frustrating. Highly recommend!!
+TAGS: Lecture heavy

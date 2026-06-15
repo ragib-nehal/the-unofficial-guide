@@ -1,0 +1,1295 @@
+PAGE 2
+This brochure is intended to be a summary of the rules applicable to undergraduate study in computer
+science at Brooklyn College. as of the date of its publication. The Brooklyn College Bulletin
+(http://www.brooklyn.cuny.edu/pub/bulletins.htm) is the official statement of the rules and regulations
+and should be consulted for final resolution of any questions.
+This brochure has been updated to the new course numbers effective September, 2010. For a form
+matching new course numbers to old course numbers, go to
+http://www.brooklyn.cuny.edu/courses/new_crs_num.jsp
+Brochure Preparation:
+Scott Dexter, Devorah Kletenik and Kat Chuang
+with assistance from:
+Jacqueline A. Jones
+Keith Harrow
+Yedidyah Langsam
+Aaron Tenenbaum
+Paula Whitlock
+Effective Date:
+October 2022
+3
+
+PAGE 4
+WHY STUDY COMPUTER SCIENCE AT BROOKLYN COLLEGE?
+In August, 2007, an article on aol.com said, "Computer science is now hip and chic, thanks in part to
+high job availability and salary potential.
+According to the National Science Foundation,
+ADVICE TO TRANSFER STUDENTS
+computer science graduates at the bachelor's
+level are more likely than graduates in other
+Students who plan to transfer to Brooklyn College
+fields to be employed full time after graduation,
+and major in CIS are advised to take courses in
+and upon entering the workforce, they are
+Java, math courses such as precalculus or
+rewarded with higher salaries. The U.S. Bureau
+calculus, and other courses that are equivalent to
+of Labor & Statistics reports the median annual
+courses in the Brooklyn College CIS majors.
+earnings of computer applications software
+Transfer students who receive advanced elective
+engineers who worked full time in May 2004
+credit for courses at other institutions must
+were about $74,980. The middle 50 percent
+nevertheless take an additional 24 advanced
+earned between $59,130 and $92,130. The
+elective credits (numbered CISC 2000 and
+lowest 10 percent earned less than $46,520, and
+higher) with a grade of C or better at Brooklyn
+the highest 10 percent earned more than
+College.
+$113,830."
+Brooklyn College has the largest computer Students in a community college who wish to
+science program in CUNY, and the department transfer to Brooklyn College are strongly advised
+is also recognized for excellence. An outside to obtain an A.S. or A.A. degree, rather than an
+evaluation by a group of distinguished computer A.A.S. degree. Students coming to Brooklyn
+science faculty ranked Brooklyn College's College with an A.A. or A.S. degree will be
+Computer and Information Science (CIS) exempt from nine lower-tier Core courses at
+Department as one of the best in the New York Brooklyn, but students with an A.A.S. degree will
+metropolitan area. The faculty is actively likely have to take a good number of these
+engaged in research in which students may courses.
+become involved. Moreover, we offer relatively
+small classes and excellent computing facilities. Transfer students who have taken a programming
+course but who have not taken a course in Java
+The prospective student should understand that before transferring should take CISC 1170 before
+"computer science" is quite different from "data taking any other CIS course at Brooklyn College
+processing" or simply "programming." In our numbered above 2820.
+programs, we stress the practice of computing,
+but we are also concerned with the underlying Students planning to transfer to Brooklyn College
+theory and the mathematics of computation. should consult a transfer advisor at their school,
+These concerns are not usually present in a or email one of the Deputy Chairs (addresses on
+program that exclusively emphasizes the use of the cover) to make sure their community college
+computers in commercial installations. We try to program is appropriate for their goals. After
+make the student a competent programmer and transferring, transfer students should consult a
+analyst, but we also want to provide an Deputy Chair as soon as possible for counseling
+understanding of the theoretical foundations of and evaluation of credits.
+our subject. This balanced program of
+commercial, scientific, and theoretical courses
+enables our graduates to grow professionally and to keep pace with rapid changes in the field. In the
+Information Systems major, we also include knowledge of the business world and of accounting and
+finance. In the Multimedia major, we include familiarity with the arts and with web design.
+5
+
+PAGE 5
+Students who graduate from our program are prepared for a variety of endeavors, either for graduate
+school leading to a career in the academic world or research or for management positions in industry, or
+for entry into the business community. Graduates of the Brooklyn College CIS Department are teaching
+at a number of prestigious universities, working at Microsoft, Google, Verizon, AT&T, Citibank, IBM,
+Metropolitan Life, National Grid, Con Edison, the Port Authority, CBS, J. P. Morgan Chase, and other
+major corporations.
+For information on potential careers in computing, please see the ACM Careers web site at
+http://computingcareers.acm.org/.
+6
+
+PAGE 6
+I. UNDERGRADUATE PROGRAMS
+The Department of Computer and Information Science (CIS) offers a very rich undergraduate program
+in computer science, as well as a graduate program leading to advanced degrees.
+Undergraduate Programs
+• a major in Computer Science, leading to the B.S. degree
+• a joint major with the Department of Business in Information Systems, leading to the B.S. degree
+• a major in Multimedia Computing, leading to the B.S. degree
+• a joint major with the Department of Mathematics in Computational Mathematics,
+leading to the B.S. degree
+• a minor in Data Science
+• a minor in Computer and Information Science
+• a minor in Multimedia Computing
+• a minor in Cognitive Science
+The undergraduate offering at Brooklyn College is quite extensive and includes some courses that are
+offered only at the graduate level in many other schools. There is a very strong emphasis on the
+discipline of programming, with substantial practical assignments in many of the courses. The
+programming language emphasized throughout the undergraduate program is Java, and a course in C++
+is required. A number of other languages may be taken as electives
+Declaring a Major
+Choosing a major is typically done during the sophomore year. Students who wish to declare themselves
+as CIS majors should do so through the Brooklyn College WebCentral portal,
+http://www.portal.brooklyn.edu. Anyone wishing to consult an advisor should see Professor Ira
+Rudowsky(day; room 1417N, 951-5000x2062; rudowsky@sci.brooklyn.cuny.edu) or Professor Joseph
+Thurm (evening; room 2109N, 951-5657; thurm@sci.brooklyn.cuny.edu). Students interested in the
+Information Systems major should contact Professor Ira Rudowsky (room 1417N, 951-5000x2062;
+rudowsky@sci.brooklyn.cuny.edu. Their office hours are posted outside the department office, room
+2109N.
+Students are not allowed to declare a major in any two or more of the following three major
+programs offered at the department, Computer Science, Multimedia Computing, and
+Information Systems.
+Students interested in graduate (Master's and/or Ph.D.) programs should contact the Graduate Deputy
+Chairperson, Professor James Cox, room 2112cN, 951-5000x2047, cox@sci.brooklyn.cuny.edu.
+7
+
+PAGE 7
+II. The Major in Computer Science (HEGIS code 0701)
+This major is designed for students who have a general interest in computers and programming. It is
+suitable for those who want to work as a programmer or systems analyst, or for someone with an
+interest in going to graduate school in computer science. It is preparation for all non-specialized fields
+of computing.
+Computer Science Major Requirements (54-60 credits)
+One of the following:
+CISC 1115 or 1170
+All of the following:
+CISC 2210, 3115, 3130, 3140, 3142, 3305 or 3310, 3320
+CISC 3220 or 3230
+CISC 4900 or 5001
+CISC 2820W or PHIL 3318W
+MATH 1201 and 1206; or 3.20 and 4.20 and 1211
+MATH 2501 or 3501
+Three additional courses in CIS numbered between 3000 and 4899.
+The department chair, with the approval of the chair of the department's undergraduate curriculum
+committee, may allow substitutions for one or more of these requirements consistent with the
+educational goals of the program. For titles and prerequisites of these CIS courses, see Section IV of
+this brochure. For descriptions, see the Brooklyn College Bulletin.
+Mathematics 1201 (3 credits) and 1206 (4 credits)
+are courses in calculus; Mathematics
+Important Note: To enroll in a CIS course, a
+2501 (3 credits) and 3501 (3 credits) are courses
+student must have passed all prerequisite courses
+in probability and statistics. Transfer students
+in the CIS department with a grade of C or higher.
+who receive credit for Mathematics 3.20 and 4.20
+This is different from the policy of many other
+are required to take Mathematics 1211 and either
+departments. This requirement does not apply to
+2501 or 3501 to satisfy the mathematics
+Math prerequisite courses, which must be passed
+requirement for the B.S. degree in Computer and
+with a D- or better.
+Information Science. Students may be required to
+take Mathematics 1011 (precalculus) before
+taking Mathematics 1201.
+8
+
+PAGE 8
+Additional Requirements for B.S. in CS, MMC or Computational Math
+CIS candidates for a CIS B.S. degree in
+Transfer students should plan their schedules
+Computer Science, Multimedia Computing, or
+carefully to ensure that they take 24 advanced CIS
+Computational Math must complete at least 60
+electives at Brooklyn College.
+credits in science and mathematics; 24 of these 60
+credits must be advanced courses numbered
+2000 and above taken in the CIS Department at Brooklyn College and completed with a grade of C
+or higher in each course. For the B.S. in Computational Math, these 24 credits must be in the CIS
+Department and/or the Math Department.
+Ordinarily, a Brooklyn College CS or MMC major will meet the 24-credit requirement through required
+CIS courses and will not require additional CIS courses. Additional CIS, math, and science courses, of
+course, are always helpful. Students should make sure that they meet the 60-credit science
+requirement.
+The following courses may be credited as science courses for the B.S. degree: All courses in the
+Departments of Biology, Chemistry, Computer and Information Science, Geology, Mathematics,
+Physics, and Psychology; B) Courses in the Dept. of Health and Nutrition Sciences marked with a (#) in
+the Bulletin; Anthropology and Archaeology 2200, 3199, 3230, 3240, 3250, 3260, 3265, 3266, 3425,
+3440, 3470, 4665; Economics 3400, 3410, 4400, 4422; Philosophy 3203, 3204, 3231, 3232, 3422, 3423,
+3601, 3605, 3610; Physical Education and Exercise Science 3023, 3271, 3275, 3281, 4229, 4251; and
+Sociology 2701.
+Department Recommendations
+• CIS majors must complete the Brooklyn College General Education
+(Pathways) Curriculum.
+• Incoming students who have programming experience should consult a department advisor.
+• Each student should, with counseling, take additional elective courses that will satisfy the
+student's special interests. These may include courses in computer and information science as well
+as courses in mathematics, economics, accounting, physics, biology, psychology, health and nutrition
+sciences, or other departments. (See “Personalizing Your Major,” below.) By taking these
+courses, the student will also be prepared to apply computing to a particular field.
+• Any student who is not familiar with Microsoft Word, Excel, Access and/or PowerPoint is
+advised to also take CISC 1050 during his or her college studies.
+• Please register as soon as possible. Once the class closes we will not grant overtallies under ANY
+circumstances.
+Seniors with good grades may also take graduate courses, with permission.
+Note that we only allow students to register for a course three times. This includes W, WN or any
+grade C- or less. After that you will need to change majors. There is no appeal from this. Be sure you
+do not over burden yourself.
+Students should try to gain experience on as many computer platforms as possible. In the CIS Department,
+we offer courses on personal computers running Windows and Unix workstations. It is to your advantage
+to take courses using both platforms so that you9 are broadly knowledgeable and have the widest
+experience and career choice possibilities.
+
+PAGE 9
+Personalizing Your Major
+Scientifically Inclined?
+Those CIS majors who want to specialize in scientific applications would do well to include in their
+program of study courses from the following list:
+CISC 1150, 2810, 3350, 3820, 4335
+MATH 2101, 2201, 2206, 4201
+Going to Graduate School?
+Students interested in graduate study in computer science should consider taking CISC 3160, 3220,
+3230, and 3390
+Going into Business?
+Those CIS majors who want to specialize in business, commercial, and economic applications would
+do well to include in their program of study courses from the following list:
+CISC 1050, 1530, 1590, 1595, 1597, 2531, 3810, 3820
+ECON 2100, 3320, 3400
+ACCT 2001, 3001, 3041
+BUSN 3100, 3200, 3230, 3310, 3430
+Politically Motivated?
+CIS majors who want to specialize in urban administration and information science should include
+as many courses as possible from the following list:
+CISC 1050, 3810, 3820
+POLS 1001 or 1002 or 1230, 3120, 3123, 3140, 3141, 3143, 3144, 3150, 3152, 3610, 3611
+10
+
+PAGE 10
+Prerequisite Flowchart for the BS in Computer Science
+11
+
+PAGE 11
+Possible Schedules for the CS Major
+Students wishing to major in CIS are encouraged to see a department counselor as early as possible.
+Note that the sample schedules in this section are appropriate for non-transfer students. Transfer
+students should consult with an advisor to plan their schedule at Brooklyn College.
+Remember that we only allow students to register for a course three times. This includes W,
+WN or any grade C- or less. After that you will need to change majors. There is no appeal from
+this. Be sure you do not over burden yourself.
+The following suggestions are offered to help a student arrange the required courses into a feasible
+schedule. Many other arrangements are possible, and each student should consider the prerequisites for
+the individual courses before planning his or her schedule. Students should also take General Education
+(Pathways) courses as appropriate. Students may also take other advanced elective courses that are not
+required for the major.
+It is important to move speedily through the CISC 1115, 3115, 3130 sequence, as completing that set of
+courses allows a student to take most other courses in the department.
+In the schedules below, elective means any course in CIS numbered from 3000 to 4899.
+Four Year Schedule
+First semester: CISC 1115, and MATH 1011 or 1201
+Second semester: CISC 2210, CISC 3115, and MATH 1201 or 1206
+Third semester: CISC 2820W, CISC 3130
+Fourth semester: CISC 3305 or 3310, and MATH 1206 or 2501
+Fifth semester:CISC 3142, and either CISC 3220 or CISC 3230
+Sixth semester: CISC 3150, CISC 3320, and MATH 2501 (if necessary)
+Seventh semester: CISC 4900 or 5001, and one elective
+Eighth semester: one or more electives, possibly CISC 4905 or 5002
+For students who decide to major in CIS in their second year, we recommend the following schedule
+of required courses:
+Three Year Schedule
+Third semester: CISC 1115, MATH 1011 or 1201
+Fourth semester: CISC 2210, CISC 3115, MATH 1201 or 1206
+Fifth semester: CISC 2820W, CISC 3130, CISC 3305 or 3310, MATH 1206 or 2501
+Sixth semester: CISC 3220 or 3230; CISC 3320 or 3150, MATH 2501 if needed
+Seventh semester: CISC 3142, CISC 3320 or 3150, and one elective
+Eighth semester: CISC 4900 or 5001, and one elective
+12
+
+PAGE 12
+Although not recommended, the following schedule is feasible for students who take CISC 1115 in their
+fourth semester. Since this program is very difficult to handle, it is critical that the student see a
+counselor before undertaking this schedule and every semester thereafter.
+Two-and-One-Half Year Schedule
+Fourth semester: CISC 1115, CISC 2820W, and MATH 1011 or 1201, CISC 3800
+Fifth semester: CISC 2210, CISC 3115, MATH 1201 or 1206, CISC 3800
+Sixth semester: CISC 3130, CISC 3310, MATH 1206 or 2501
+Seventh semester: CISC 3142, CISC 3220 or 3230, CISC 3320 or 3150, MATH 2501 if needed
+Eighth semester: CISC 3320 or 3150, CISC 4900 or 5001, one or more electives
+Note: MATH 1011 or placement in MATH 1201 by the Dept. of Mathematics, is a prerequisite for CISC
+2210.
+Freshmen and sophomores are also encouraged to complete Pathways requirements and to start the
+Math requirements for the CS major.
+Students who are required to take a foreign language should satisfy that requirement as quickly as
+possible.
+13
+
+PAGE 13
+III. The Major in Multimedia Computing (HEGIS code 0799)
+This major is designed for students interested in the types of computing that are
+used for entertainment, art and aesthetics. The major melds work in the Arts, Mathematics and
+Computer Science to produce students who are comfortable applying computing to non-traditional
+applications such as robotics, computer gaming, web production, and arts production. Building on
+our several-year-old minor in the field, the new major is designed to provide preparation for the
+increasing number of computing careers in the arts and entertainment industries.
+MULTIMEDIA COMPUTING MAJOR REQUIREMENTS (60-63 credits)
+All of the following:
+CISC 1115 or 1170
+CISC 1600, 2210, 3115, 2820W, 3115, 3130, 3220, 3620, 3630
+CISC 4900 or 5001
+All of the following:
+MATH 1201; 1711 or 1206; 1716 or 2501
+One of the following:
+CISC 3650, 3660, 3665
+Three additional courses chosen from the following:
+CISC 3140, 3142, 3410, 3415, 3610, 3650, 3660, 3665, 3810, 4610
+Two courses chosen from among the following:
+Art (ARTD) 2811, 2812, 2820, 2821, 3812
+Music (MUSC) 3260, 3261, 3262, 3322
+FILM 1201, 2701
+Television and Radio (TVRA) 2420, 3861, 3871, 3951
+A candidate for this degree must also fulfill the science requirements listed on page 8.
+The department chair, with the approval of the chair
+of the department's undergraduate curriculum
+Important Note: To enroll in a CIS course, a
+student must have passed all prerequisite courses committee, may allow substitutions for one or more
+of these requirements consistent with the
+in the CIS department with a grade of C or higher.
+This is different from the policy of many other educational goals of the program.
+departments. This requirement does not apply to
+For titles and prerequisites of these CIS courses, see
+Math prerequisite courses, which must be passed
+Section IV of this brochure. For descriptions, see
+with a D- or better.
+the Brooklyn College Bulletin.
+14
+
+PAGE 14
+Prerequisite Flowchart for the BS in Multimedia Computing
+15
+
+PAGE 15
+Possible Schedules for the MMC Major
+Students wishing to major in Multimedia Computing are encouraged to see a department counselor as
+early as possible. Note that the sample schedules in this section are appropriate for non-transfer
+students. Transfer students should consult with an advisor to plan their schedule at Brooklyn College.
+The following suggestions are offered to help a student arrange the required courses into a feasible
+schedule. Many other arrangements are possible, and each student should consider the prerequisites
+for the individual courses before planning his or her schedule. Students should also take Core courses as
+appropriate. Students may also take other advanced elective courses that are not required for the major.
+It is important to move speedily through the CISC 1115, 3115, 3130 sequence, as completing that
+set of courses allows a student to take most other courses in the department.
+In the schedules below, a CIS MMC elective is an additional course chosen from among CISC CISC
+3140, 3150, 3410, 3415, 3610, 3650, 3660, 3665, 3810, 4610
+Four Year Schedule
+First semester: CISC 1115, CISC 1600, ENGL 1010, MATH 1011
+Second semester: MATH 1201, ENGL 1012
+Third semester: CISC 2820W, CISC 3115, MATH 1206
+Fourth semester: CISC 2210, arts elective
+Fifth semester: CISC 3130; CISC 3630, MATH 2501
+Sixth semester: CISC 3220, CISC 3650 or 3660 or 3665, arts elective
+Seventh semester: CISC 3620, MMC elective, CISC 4900 or 5001
+Eighth semester: CIS MMC elective; CISC 4905 or CISC 5002 (optional)
+For students who decide to major in Multimedia Computing in their second year, we
+recommend the following schedule of required courses:
+Three Year Schedule
+Third semester: CISC 1600, MATH 1011, arts elective
+Fourth semester: CISC 1115, MATH 1201, arts elective
+Fifth semester: CISC 2210, CISC 2820W, CISC 3115, MATH 1206
+Sixth semester: CISC 3630, MATH 2501
+Seventh semester: CISC 3130, CISC 3650 or 3660 or 3665; CIS MMC elective
+Eighth semester: CISC 3220, CISC 3620, CIS MMC elective; CISC 4900 or 5001
+16
+
+PAGE 16
+Note: Mathematics 1011 or placement in MATH 1201 by the Dept. of Mathematics, is a prerequisite
+for CISC 2210.
+Freshmen and sophomores are also encouraged to complete their General Education and English
+requirements and to start the Math requirements for the MMC major.
+Students who are required to take a foreign language should satisfy that requirement as quickly as
+possible.
+17
+
+PAGE 17
+IV. The Major in Information Systems (HEGIS code 0702)
+This major, offered in a program taught jointly between the CIS department and the Dept. of Finance
+and Business Management, is designed for students who want to use their computing skills in the field
+of business and organizational management. Combining a broad education in computing with the
+extensive "business intelligence" that today's organizations are seeking from their information
+technology staffs, the major will prepare students for such careers as Business Analyst, Systems
+Analyst, Database Administrator, Information Technology Specialist, and Information Consultant.
+INFORMATION SYSTEMS MAJOR REQUIREMENTS (63-67 credits)
+All of the following:
+CISC 1115 or 1170
+CISC 3115, 3130, 3810
+CISC 4900 or 5001
+Students unfamiliar with PC application software (word processing, spreadsheet software, database
+management software, and presentation software) should also complete CISC 1050. Knowledge of such
+software is prerequisite for CISC 3810.
+Three courses chosen from the following:
+CISC 3140, 3150, 3171, 3340, 3345, 3410, 3800, 3820.
+With permission of the chairperson of the Department of Computer and Information Science, the student
+may substitute one of the following courses for any course in the three-course choice above: CISC 3160,
+3220, 3310, 3320, 3610, 3630.
+All of the following:
+CISC 2820W/Philosophy (PHIL) 3318W
+CISC 1590/Business (BUSN) 3420
+CISC 2531/BUSN 3430
+CISC 1530/BUSN 3120 or CISC 2532/BUSN 2432
+BUSN 4202W/CISC 1580W
+ECON 2100/BUSN 2100 and ECON 2200/BUSN 2200 and BUSN 3200
+Finance (FINC) 3310
+Accounting (ACCT) 2001
+BUSN 3400/ECON 3400 or MATH 2501 or MATH 3501 or Psychology (PSYC) 3400
+BUSN 3410/ECON 3410 or MATH 1201 or BUSN 3421 or CISC 2590
+Important Note: To enroll in a CIS course, a
+A candidate for this degree must complete 24
+student must have passed all prerequisite courses
+credits in advanced courses in the Departments of
+in the CIS department with a grade of C or higher.
+Accounting, CIS, Economics, and/or Finance and
+This is different from the policy of many other
+Business Management. These courses must be
+departments. This requirement does not apply to
+completed at Brooklyn College with a grade of C
+MATH prerequisite courses, which must be
+or higher.
+passed with a D- or better.
+18
+
+PAGE 18
+Prerequisite Flowchart for the BS in Information Systems
+19
+
+PAGE 19
+Possible Schedules for the IS Major
+Students wishing to major in Information Systems are encouraged to see a department counselor as early
+as possible. Note that the sample schedules in this section are appropriate for non-transfer students.
+Transfer students should consult with an advisor to plan their schedule at Brooklyn College.
+The following suggestions are offered to help a student arrange the required courses into a feasible
+schedule. Many other arrangements are possible, and each student should consider the prerequisites for
+the individual courses before planning his or her schedule. Students should also take Core courses as
+appropriate. Students may also take other advanced elective courses that are not required for the major.
+It is important to move speedily through the CISC 1115, 3115, 3130 sequence, as completing that
+set of courses allows a student to take most other courses in the department.
+In the schedules below, a CIS IS elective is CISC 3800 or 3120 or 3140 or 3171 or 3410 or 3820 or
+3340 or 3345.
+Four Year Schedule
+First semester: CISC 1115, CISC 1050, MATH 1011, ENGL 1010
+Second semester: CISC 1530, CISC 3110, BUS 2100, ENGL 1012
+Third semester: CISC 2820W, CISC 3130, BUS 2200, BUS 3200
+Fourth semester: CISC 1590, CISC 3810, CISC 3142, BUS 3400
+Fifth semester: CISC 2531; CISC 3150; one CIS IS elective
+Sixth semester: one or more CIS IS electives; BUS 3410
+Seventh semester: CISC 1580W; CISC 4900 or CISC 5001; ACCT 2001
+Eighth semester: CISC 4905 or CISC 5002, additional CIS or Business electives, BUS 3310
+For students who decide to major in Information Systems in their second year, we
+recommend the following schedule of required courses:
+Three Year Schedule
+Third semester: CISC 1115, CISC 1050, MATH 1011, BUS 3200
+Fourth semester: CISC 1530, CISC 1590, CISC 3115, BUS 2100
+Fifth semester: CISC 2820W, CISC 3130, BUS 2200, BUS 3400
+Sixth semester: CISC 2531, CISC 3810, one CIS IS elective, BUS 3410
+Seventh semester: CISC 3150; one or more CIS IS electives; ACCT 2001
+Eighth semester: CISC 1580W; CISC 4900 or CISC 5001; BUS 3310
+20
+
+PAGE 20
+Although not recommended, the following schedule is feasible for students who take CISC 1115 in their
+fourth semester. Since this program is very difficult to handle, it is critical that the student should see
+a counselor before undertaking this schedule and every semester thereafter.
+Two-and-One-Half Year Schedule
+Fourth semester: CISC 1115, CISC 1050, MATH 1011, BUS 3200
+Fifth semester: CISC 1530, CISC 1590, CISC 3115, BUS 2100, ACCT 2001
+Sixth semester: CISC 2820W, CISC 3130, BUS 2200, BUS 3400
+Seventh semester: CISC 2531, CISC 3810, one CIS IS elective, BUS 3410, BUS 3310
+Eighth semester: CISC 3150, one CIS IS elective, CISC 1580W; CISC 4900 or 5001
+Note: Mathematics 1011 or placement in MATH 1201 by the Dept. of Mathematics is a prerequisite for
+CISC 2210.
+Freshmen and sophomores are also encouraged to complete their General Education and English
+requirements and to start the Math requirements for the IS major.
+Students who are required to take a foreign language should satisfy that requirement as quickly as
+possible.
+21
+
+PAGE 21
+V. The Minor in Computer Science
+Students can officially minor in CS by taking 12 credits in CIS electives whose course
+numbers are above 2000, including at least one of 3130 or 3310. At least 6 of the credits
+presented for the minor must be completed at Brooklyn College. The 12 advanced elective
+credits must be completed with an average of C or better.
+Three possible minors are the following:
+a) CISC 1115, 2210, 3115; 3130; and 3310
+b) CISC 1115, 1050; 2531 or 2210; 3800, 3115; and 3130 or 3630
+c) CISC 1115, 3115; 3130; and two additional courses numbered 2000 or above (however, make
+sure that you fulfill any prerequisites).
+Any student who is not familiar with Microsoft Word, Excel, Access and/or PowerPoint is
+advised to also take CISC 1050 during his or her college studies.
+22
+
+PAGE 22
+VI. The Minor in Multimedia Computing
+A student with a major in CIS or another field may take a minor in Multimedia Computing. Any minor
+at BC requires completing 12 advanced elective credits with an average of C- or better. The minor
+requires 21-23 credits and includes the following courses.
+MULTIMEDIA COMPUTING MINOR REQUIREMENTS
+All of the following:
+CISC 1115 or 1170
+CISC 1600, 3115, 3130
+CIS 3620 or 3630
+Three courses chosen from among the following:
+CISC 3610, 3620, 3630, 3650, 3660, 3665, 4610
+Courses presented for the major in CIS may also be used to satisfy the minor in multimedia computing.
+23
+
+PAGE 23
+VII. The Minor in Cognitive Science
+The CIS Department offers a minor in Cognitive Science. The minor requires 12-13 credits in advanced
+electives. The 12 advanced elective credits must be completed with an average of C- or better. This is an
+interdepartmental minor, offered by the CIS, Philosophy and Psychology departments. The minor
+includes the following courses.
+COGNITIVE SCIENCE MINOR REQUIREMENTS
+All of the following:
+PHIL 3422
+CISC 1115
+PSYC 1000 and 3530
+One from each of the following groups, a) and b):
+a) PHIL 3123, 3410, 3401, 3420, or 3601.
+b) CISC 1410 or 3410; or PHIL 29, or PSYC 3580.
+24
+
+PAGE 24
+IX. The Minor in Data Science
+Data Science has become an important field of study combining elements of computer
+science, mathematics, statistics, and artificial intelligence, with applications to social science
+data analytics.
+The Brooklyn College Minor, under the joint auspices of the Departments of CIS and Mathematics,
+provides recognition to students who may want to study this new field. Any student at the College may
+choose to minor in Data Science.
+This figure looks at data science from the perspective of the computing disciplines, but
+recognizes that other views contribute to the full picture.
+Data Science often uses the Python programming language and the R database system. These are
+included in the minor. The Minor also requires courses in Calculus (already required by the majors in
+CIS and Math) and in Linear Algebra, a mathematics tool that is useful in solving analytic problems,
+including many in the social sciences.
+A new practical applied course in Statistics has been developed for the minor. A new Data Science
+Algorithms course is also included. Artificial Intelligence is represented by a CIS elective in Machine
+Learning, which forms the core of AI methodology in the area of expanding the capabilities of practical
+computer systems and applications.
+25
+
+PAGE 25
+The minor requires 18-19 credits.
+Prerequisite requirements for the minor: MATH 1201, 1206, 2101; CISC 1215
+DATA SCIENCE MINOR REQUIREMENTS
+All of the following:
+CISC 3225 and 3440.
+MATH 4531.
+Either MATH 2001 and MATH 3501, or CISC 2210 and MATH 2501.
+One additional course, chosen from among the following:
+BUSN 2200 or 4400W
+CISC 1410 or 3130
+FINC 3377
+ECON 2200 or 3370 or 4422 or 4400W
+MATH 3601 or 4101 or 4501
+PHIL 3203 or 3204 or 3423
+POLS 3014W or 3421 or 3423
+PSYC 3510 or 3520 or 3530 or 3580 or 4400
+SOCY 3506 or 3604
+Courses presented for the major in CIS may also be used to satisfy the minor in data science.
+26
+
+PAGE 26
+X. The Major in Computational Mathematics (HEGIS code 1701)
+The Computational Mathematics program, offered jointly by the Department of Mathematics and the
+Department of Computer and Information Science, prepares the student for a wide range of future careers
+and opportunities for graduate study. The Computational Option enables students to apply
+mathematical and computational skills to the physical, biological, social and behavioral sciences. It is
+designed for the education of applied mathematicians who plan to enter careers in scientific computing, or
+who wish to enroll in graduate programs in computationally oriented applied mathematics or in computer
+science. The Theoretical Option is designed for those interested in the more abstract parts of computer
+science, and for those interested in college teaching and research.
+COMPUTATIONAL MATHEMATICS PROGRAM REQUIREMENTS (54-60 credits)
+Option I. Computational
+One of the following mathematics sequences, a) or b):
+a) MATH 1201 and 1206
+b) MATH 3.20 and 34.20 and 1211
+All of the following:
+MATH 2001, 2101, 2201, 2206, 4201, 3501, and 4701
+CISC 1115 or 1170
+CISC 3115, 3130, 3220
+Three courses chosen from the following:
+CISC 3240/MATH 3107, CISC 3142, 3150, 3160, 3230, 3310, 3330, 3350, 3820, 4335
+Option II. Theoretical
+One of the following mathematics sequences, a) or b)
+a) MATH 1201 and 1206
+b) MATH 3.20 and 34.20 and 1211
+All of the following:
+MATH 2001, 2101, 2201, 3101, 4101, and 4201
+CISC 1115 or 1170
+CISC 3115, 3130, 3220, 3230, 4900
+CISC 4900 or 5001
+Three of the following:
+CISC 3240/MATH 3107; CISC 3142, 3150, 3160, 3330, 3350, 3820, 4335
+Important Note: Candidates for a degree in Computational Mathematics must also fulfill the
+requirements listed on page 8 of this brochure.
+RECOMMENDATIONS: MATH 4501 is recommended. It is recommended that students should
+choose electives in departments that prepare them to apply computer science to a particular field of interest.
+27
+
+PAGE 27
+Majors in Computational Mathematics may substitute MATH 2001 for CISC 2210 as a prerequisite for
+CIS courses.
+Warning: Since many Mathematics and some CIS courses (e.g., CISC 3820), are offered no more than
+once a year or even two, students majoring in Computational Mathematics should plan their schedules
+accordingly.
+28
+
+PAGE 28
+XI. ANSWERS TO COMMON QUESTIONS ABOUT CIS
+I've heard a lot of conflicting opinions Mathematics). Only students in the Coordinated
+about the job and career prospects in Engineering Program or Science/Math Majors
+computing. I need accurate information. (not Computer Science) who have completed
+Are jobs available, and does computing pre calculus with a grade of B or better, or been
+make sense as a lifetime career? Where can placed in Calculus I may take this section. All
+I learn more about this subject? other students should enroll in any of the other
+sections. The standard version of CISC 1115 is
+Yes, there are jobs available in computing. Even not geared to a particular application area, but
+when the number of jobs in the field was at its rather uses examples from a variety of
+lowest point in 2002-03, there was less fields. Students who are interested in the
+unemployment in the Information Technology Coordinated Engineering Program should
+sector than in the overall U.S. economy. consult with the Physics department.
+Today, there is increasing demand for What are those other introductory
+computing professionals, and a significant courses?
+shortage of skilled personnel. Thus there is
+great opportunity for our graduates. Many The department offers several other
+people who start out in IT jobs move into introductory courses, but they are not
+managerial positions in their organizations. The appropriate first courses for a CIS major. They
+key to any successful career, including a are:
+computing career, is keeping up with the field • CISC 1000, Computing: Its Nature, Power
+and continuing education throughout your and Limits
+working years. An excellent source for • CISC 1001, Computing and Quantitative
+information about computing careers is at Reasoning
+http://computingcareers.acm.org. Look at the • CISC 1002, The Outer Limits of Reasoning
+Frequently Asked Questions on that site for • CISC 1003, Exploring Robotics
+detailed answers to many of your questions
+• CISC 1050, Introduction to Computer
+about the computing job and career situation.
+Applications.
+Which introductory course should the CISC 1000 is designed for students who do not
+student who intends to major in CIS take? intend to major in CIS or in the sciences. CISC
+1001, 1002, and 1003 fulfill Pathways
+A student who intends to major in CIS should requirements. CISC 1050, which can be taken
+start by taking CISC 1115, Introduction to by a CIS major, teaches office applications like
+Computing Using Java. Windows, Word, Excel, Access, and
+Powerpoint.
+CISC 1115 is an introduction to programming,
+using the Java programming language. The Students can take CISC 1050 in the same
+programming assignments do not assume that semester as CISC 1115.
+the student has a mathematical background
+beyond high school mathematics. The Java Is CISC 1115 an easy course?
+language is used heavily in later courses in the
+curriculum, as well as in industry. No, the student should expect substantial
+programming assignments requiring a good
+There are currently two versions of CISC 1115. deal of time. In addition to the hours spent in
+One section emphasizes scientific applications, class, at least 10 to 12 hours per week will be
+and is intended for students interested in STEM needed to write, run, and correct programs,
+fields (Science, Technology, Engineering, and either on computers on campus or at home.
+29
+
+PAGE 29
+Programming can only be learned by writing major. You should seek guidance prior to the
+programs, and this is a painstaking, time- registration period.
+consuming task requiring intellectual rigor and
+What other first steps should the
+discipline. One primary goal of the course is
+prospective CIS major take?
+to give students a good understanding of the
+nature of programming before they decide to
+Move ahead on satisfying the mathematics
+make a lifetime career out of working with
+requirements. Take MATH 1201 as soon as
+computers.
+possible. See a counselor in the Department of
+Do I need to know much mathematics in Mathematics with regard to any prerequisite
+order to take CISC 1115? courses that must be completed before taking
+MATH 1201. Many students will have to take
+No, not much in the way of college level MATH 1011 before MATH 1201.
+courses is necessary for CISC 1115. However,
+How do I declare myself a CIS major?
+the student should have done well in high
+school mathematics and other introductory
+During your sophomore or junior year, you will
+courses.
+be asked to declare a major. Students who wish
+What course should I take first if I have to declare themselves as CIS majors should do
+had an introductory computing course at so through the Brooklyn College WebCentral
+some other college? portal, http://www.portal.brooklyn.edu. Day
+students wishing to consult an advisor should
+If you have taken an approved introductory see Prof. Ira Rudowsky (1417N, 951-5000 x2062,
+programming course, but in some language rudowsky@sci.brooklyn.cuny.edu). Evening or
+other than Java, you should initially take CISC weekend students should see Prof. Joseph
+1170, Introduction to Java for Programmers. Thurm (2109N, 951-5657;
+This course presumes a general knowledge of thurm@sci.brooklyn.cuny.edu). Their office
+programming in some language other than Java. hours are posted outside the department office,
+Typically, this other language would be Pascal, room 2109N. If you have not yet taken CISC
+C, C++, or Visual BASIC. 1115 or 1170, but wish to major in CIS, defer
+your major declaration and take one of these
+Since the demand for CISC 1170 is low, courses as soon as possible.
+students registering for the course are advised to What second course(s) should be taken by
+sit in on any section of CISC 1115 and do all a CIS major?
+the assignments and exams for a grade.
+CISC 2210 (Introduction to Discrete Structures)
+If you are in doubt about whether the and CISC 3115 Introduction to Modern
+introductory course you took is acceptable, you Programming Techniques) are good second
+should speak to a department counselor. Briefly, courses. CISC 3115 continues the study of Java
+to take a course beyond CISC 1115 or 1170, programming and also introduces the student to
+you should be comfortable with such the study of data structures. This course
+programming concepts as nested loops, includes substantial programming assignments.
+functions and parameter transmission, arrays, CISC 2210 covers some of the mathematical
+simple searching and sorting techniques, logical and logical constructs that underlie computing.
+and relational operators, and other control CISC 2210 has a prerequisite of MATH 1011 or
+structures. placement into MATH 1201 by the Math
+Department.
+In all cases, if you have had a first course
+Can an undergraduate student take a
+elsewhere, you should speak with a counselor in
+graduate course?
+planning the rest of your program as a CIS
+30
+
+PAGE 30
+Advanced (senior year) students with good How should I prepare myself for graduate
+records can consider taking a CIS graduate school in computer science?
+course as an advanced elective, if they satisfy
+the prerequisite conditions. This requires the A student intending to go to graduate school in
+approval of both the department and the computer science should take CISC 3220, CISC
+Academic Advisement Center. See the Graduate 3390, and CISC 3230. It is also a good idea to
+Student Counselor. A large variety of graduate take as many CIS electives as possible, and to
+courses are offered every semester, including do a research project with a CIS faculty member
+courses in artificial intelligence, databases, and for CISC 4900, 4940, 4945, 4950, 4955, 5001
+computer networks. or 5002. If you plan to take the Graduate
+Record Exam in computer science, you should
+Where can I learn C++? complete CISC 3230 before taking the exam.
+CISC 3142 teaches advanced programming Who should consider entering a computer-
+concepts in C++. related profession?
+How can I learn other programming Most importantly, you should be interested!–
+languages besides Java and C++? either in the computer per se, or in the
+enormous variety of applications to which it is
+You may take CISC 3160 which includes an put. If you’re interested in a career involving
+introduction to other languages. You may also programming, you should find programming
+take a CIS course numbered between1150 and interesting and (mostly) fun. If you enjoy
+1200 to learn a specific new language. solving puzzles and complex problems, you
+may find programming work very satisfying. Of
+Is there any opportunity to do research at
+course, it helps to be orderly and disciplined in
+the undergraduate level?
+your approach—when dealing with machines,
+nothing useful can be achieved by vague or
+Yes. There are a number of faculty laboratories
+fuzzy thinking; similarly, you should be
+in the CIS department with ongoing research
+comfortable with doing painstaking, detailed-
+projects. Students can do independent work
+oriented tasks.
+with these faculty and receive credit for CISC
+4900, 4905, or 5001; superior students may
+It is not necessary to have extensive
+apply for honors credit in any CIS course, enroll
+mathematical knowledge for most professional
+in the honors courses CISC 4940 to 4955, or
+programmer jobs, and many have entered the
+enroll in one of the supervised research project
+field with undergraduate majors in such diverse
+courses, CISC 5001 to 5004. These projects
+areas as psychology, history, English literature,
+offer students the opportunity to get involved in
+etc. But an undergraduate degree in computer
+hands-on practical work with both hardware and
+science can be a very solid foundation.
+software. The projects can provide you with
+skills and contacts that can enhance your career
+Do I need a grade of C or better in every
+opportunities or your choice of graduate
+single CIS course to complete the major?
+schools. Getting involved in research is
+especially important for those students who
+No. You need a grade of C or better in 24
+want to continue on to graduate school in
+advanced elective credits at Brooklyn College
+computer science. It is a good idea to start
+for the B.S. in Computer and Information
+looking into a project early in your CIS career.
+Science. All courses not marked with an asterisk
+Talk to your professors about their work, or
+in Section IV or in the Bulletin are advanced
+contact professors who are doing work
+electives. You need a C or better in any course
+consistent with your interests.
+that is a prerequisite to any other CIS course.
+For example, you need a C in CISC 3130, since
+it is a prerequisite for CISC 3142, but you do
+31
+
+PAGE 31
+not need a C or better in CISC 3180 (because it
+is not a prerequisite for anything), as long as See the Mathematics department about grade
+you have 24 other advanced electives with a requirements for mathematics courses.
+grade of C or better.
+32
+
+PAGE 32
+XII. COURSES OFFERED BY THE CIS DEPARTMENT
+CISC courses numbered 2000 and above, taken at Brooklyn College, count towards the B.S.
+requirement of 24 credits in advanced courses. Descriptions of courses can be found in the
+Undergraduate Bulletin. A form matching new and old course numbers can be found at
+http://www.brooklyn.cuny.edu/courses/new_crs_num.jsp
+The Schedule of Classes published each term lists courses offered in that particular semester. Not all
+courses are offered each term.
+The first digit of a course number indicates its general level of difficulty:
+1000 Introductory Courses
+2000 Lower-Intermediate Courses
+3000 Upper-Intermediate Courses
+4000 Specialized Courses
+5000 Honors/Research Courses
+The hundred's digit indicates the area of Computer Science it addresses:
+000 Service
+100 Programming
+200 Theory
+300 Hardware/Software Systems
+400 Intelligent Systems
+500 Information Systems
+600 Multimedia
+800 Other Topics
+*1000 Computing: Its Nature, Power and Limits
+(3 hours; 3 credits) N ot open to students who have completed CISC course
+N ot open to students who are enrolled in, or have numbered 2000 or higher.
+completed, any C IS course—other than C ISC 1050—
+with a C or higher, or who have completed CO R C *1035 Multimedia Production for the World Wide
+1312 or Core Studies 5 or 5.1. Web
+(1 hour recitation, 1 hour lecture; 2 hours lab; a minimum of
+*1001 Computing and Quantitative Reasoning 4 hours independent computer laboratory work: 3 credits)
+(3 hours; 3 credits) Prerequisite: CORC 1312 or Core Studies 5 or 5.1 or any
+course in computing.
+*1002 The Outer Limits of Reasoning
+(3 hours; 3 credits) Not open to students who are enrolled in or have
+N ot open to students who are enrolled in or have completed CISC 3800 or 3630.
+completed CO R C 3310
+*1050 Introduction to Computer Applications
+*1003 Exploring Robotics (3 hours; 3 credits)
+(3 hours; 3 credits) N ot open to students who are enrolled in or have
+N ot open to students who are enrolled in or have completed CISC 3800.
+completed CO R C 3303
+*1060, *1062 Computing Workshop 1, 2
+*1030 The Internet (10 hours; 3 credits)
+(2 hours lecture, 2 hours lab; 3 credits) Prerequisite: CORC 1312 or 3303, or Core Studies 5 or 5.1,
+Prerequisite: CORC 1312 or Core Studies 5 or 5.1 or any or any course in CIS; and permission of the chairperson.
+course in computing.
+33
+
+PAGE 33
+*1070, *1072 Special Topics in Computing (3 hours; 3 credits)
+(3 hours; 3 credits) Prerequisite: CORC 1312 or Core Studies 5 or 5.1 or a
+Prerequisite: varies with each topic offered. course in CIS; and CORC 1210 or Core Studies 10 or a
+course in philosophy; or permission of the chairperson.
+*1110 Introduction to Computing Using C++
+(3 hours lecture, 2 hours lab; 4 credits) N ot open to students who have completed CIS 32.1.
+N ot open to students who are enrolled in or have
+completed CIS 1.10 or 1.20 or 16 or C ISC 1180 or *1530 Electronic Commerce
+3110. Completion of this course prohibits a student from (3 hours; 3 credits)
+receiving credit for CISC 1113, 1114, and CISC 1115. Prerequisite: CISC 1050 or CISC 1110 or CISC 1115 or both
+1113 and 1114 or any course in computing.
+*1115 Introduction to Computing Using Java
+(3 hours lecture, 2 hours lab; 4 credits) *1580W Seminar in Computer-Assisted Management
+N ot open to students who are enrolled in or have Games
+completed CISC 1110 (1.5). Prerequisite: ENGL 1012.
+Prerequisite or corequisite: BUSN 3400 or MATH 2501 or
+*1150 UNIX Shell Programming 3501; and BUSN 3430 or CISC 2531; and CISC 1050 or
+(2 hours; 2 credits) 1110 or 1115 or both 1113 and 1114, and senior standing;
+Prerequisite: CISC 1170 or 3110 or 3115. and at least 34 credits in CIS and/or Business courses
+required for the B.S. degree in CIS or the B.S. degree in
+*1155 Programming in Perl business, management, and finance.
+(2 hours; 2 credits)
+Prerequisite: CISC 3130. Not open to students who have completed Economics 80.3.
+*1160 Visual Programming and Windowing *1590 Management Information Systems
+Applications (3 hours; 3 credits)
+(2 hours; 2 credits) Prerequisite: CISC 1050 and at least sophomore standing or
+Prerequisite: CISC 3130 permission of the chairperson.
+*1170 Java for Programmers N ot open to students who have completed BUSN 3420.
+(2 hours; 2 credits)
+Prerequisite: an introductory programming course in a *1595 Management of New and Emerging
+language other than Java, and permission of the chair. Technologies
+(3 hours; 3 credits)
+N ot open to students who are in enrolled in or have Prerequisite: CISC 1050 or permission of the chairperson.
+completed CIS 1115 or 3115 or both 1113 and 1114.
+N ot open to students who have completed Econom ics
+*1180 Introduction to C++ for Programmers 50.8
+(2 hours; 2 credits)
+Prerequisite: An introductory programming course in a *1597 New Media and Business
+language other than C++ or C. (3 hours; 3 credits)
+Prerequisite: sophomore status or departmental permission.
+N ot open to students who are enrolled in or have
+completed CISC 1110 or 3110. *1600 Introduction to Multimedia Computing
+(3 hours; 3 credits)
+*1215 Introduction to Programming Using Python
+(2 hours lecture, 2 hours lab; 3 credits) 2210 Introduction to Discrete Structures
+(3 hours; 3 credits)
+*1341 Assembly Language Programming for Prerequisite: CIS 1.10 or 1.20 or 1110 or 1115 or 1170 or
+Microcomputers [INACTIVE] 1215 or both 1113 and 1114; and MATH 1011 or 1012 or
+(3 hours; 3 credits) 2.92 or assignment to MATH 3.20 or 1201 or 4.10 by the
+Prerequisite: CIS 1.10 or 1.20 or 2.40 or CISC 1110 or 1115 Department of Mathematics.
+or 1180 or both 1113 and 1114.
+2531 Operations Management
+*1400 Elementary Robotics (3 hours; 3 credits)
+(3 hours; 3 credits) Prerequisites: CORC 1312 or Core Studies 5.1 or CIS 100 or
+Prerequisite: CORC 1311 or MATH 1311 or 1026 or 1201 or 1050 or 1110 or 1115 or both 1113 and 1114; CISC 2210 or
+permission of the chairperson. BUSN 3400 or ECON 3400 or MATH 2501 or MATH
+3501.
+*1410 Philosophy and Artificial Intelligence
+34
+
+PAGE 34
+N ot open to students who are enrolled in or have CISC 3141 Applied Software Development
+completed M AT H 3606 or Econom ics 31.4. (3 hours; 3 credits)
+Prerequisite: CISC 3130; 1115, or both of 1113 and 1114, or
+2532 Information Systems Project Management 1170, or 3115.
+(3 hours; 3 credits)
+Prerequisites: CISC 1590 or BUSN 3420. 3142 Programming Paradigms in C++
+(3 hours; 3 credits)
+2590 Foundations of Business Analytics Prerequisite: CISC 3115, 3130, or both 1113 and 1114, and
+(3 hours; 3 credits) either 3310 or permission of the chair.
+Prerequisites: Business 3400, Econom ics 3400,
+Mathem atics 1501, Psychology 3400, or an equivalent Not open to students who have completed CISC 3110.
+statistics course with a grade of C or better; and
+Computer and Information Science 1050 or proficiency 3144 Modern JavaScript
+with spreadsheets. (3 hours; 3 credits)
+Prerequisite: CISC 3140.
+2810W Macromolecular Structure and
+Bioinformatics 3146 Engineering Mobile Software Applications
+(3 hours; 3 credits) (3 hours; 3 credits)
+Prerequisites: English 1012, Biology 1001, Biology 1002, Prerequisite: CISC 3130.
+and permission of the instructor.
+3150 Object-Oriented Programming
+2820W Computers and Ethics (3 hours; 3 credits)
+(3 hours; 3 credits) Prerequisite: CISC 3130.
+Prerequisite: CORC 1312 or Core Studies 5.1 or CIS 1000 or
+1110 or 1115 or both 1113 and 1114, and ENGL 1012. 3160 Programming Languages
+(4 hours; 4 credits)
+2830 Introduction to Natural Language Processing Prerequisite: CISC 3142.
+(3 hours; 3 credits)
+Prerequisite: CISC 1110 or 1115 or both 1113 and 1114 3171 Introduction to Software Engineering
+Prerequisite or corequisite: CISC 2210 and Linguistics (3 hours; 3 credits)
+(LING) 2001. Prerequisite: CISC 3130.
+3110 Advanced Programming Techniques 3220 Analysis of Algorithms
+(4 hours; 4 credits) (3 hours; 3 credits)
+Prerequisite: CISC 1110 or 1180. Prerequisite: CISC 2210; CIS 21 or CISC 3130; MATH 3.20
+or 1201 or 4.10.
+N ot open to students who are enrolled in or have
+completed CISC 3130. 3225 Data Tools and Algorithms
+(3 hours, 3 credits)
+3115 Introduction to Modern Programming Techniques Prerequisite: CISC 1215; CISC 2210 or MATH 2001
+(4 hours; 4 credits)
+Prerequisite: CISC 1115 or 1170 or both 1113 and 1114. 3230 Theoretical Computer Science
+(3 hours; 3 credits)
+N ot open to students who are enrolled in or have Prerequisite: CISC 2210; CIS 21 or CISC 3130; MATH
+completed CISC 3110. 3.20 or 1201 or 4.10.
+3120 Design and Implementation of Software 3240 Cryptography and Cryptanalysis
+Applications 1 (3 hours; 3 credits)
+(3 hours; 3 credits) Prerequisite: MATH 2101 or permission of the chair.
+Prerequisite: CISC 3110.
+3305 Computer Organization [INACTIVE]
+3130 Data Structures (3 hours; 3 credits)
+(4 hours; 4 credits) Prerequisite: CIS 4 or CISC 1341; and CISC 2210.
+Prerequisite: CISC 3115; or CISC 3110 and 1170. N ot open to students who are enrolled in or who have
+completed CISC 3315.
+3140 Design and Implementation of Large-Scale Web
+Applications 3310 Principles of Computer Architecture
+(3 hours; 3 credits) (4 hours; 4 credits)
+Prerequisite: CISC 3130; and either 1115, 1117, 11170, or Prerequisite: CISC 1110 or 1115 or 1170 or both 1113 and
+both 1113 and 1114. 1114, or 1180; and CISC 2210.
+35
+
+PAGE 35
+Prerequisite: CIS 21 or CISC 3130.
+N ot open to students who are enrolled in or have
+completed CISC 3305 or 3315. 3415 Principles of Robotics
+(3 hours; 3 credits)
+3315 Digital Computer Systems Prerequisite: CISC 2210 and CISC 3130.
+(3 hours lecture, 3 hours laboratory; 4½ credits)
+Prerequisite: CIS 4 or CISC 1341; and CISC 2210. 3440 Machine Learning
+(3 hours; 3 credits)
+N ot open to students who are enrolled in or have Prerequisite: CISC 3130 or 3225, MATH 2501 or 3501 or
+completed CISC 3305. CISC 2210.
+3320 Operating Systems 3610 Introduction to Multimedia Programming
+(3 hours; 3 credits) (3 hours; 3 credits)
+Prerequisite: CIS 21 or CISC 3130; and CISC 3305, 3310, Prerequisite: CISC 3110 or 3115.
+or 3315. Recommendation: experience on two platforms.
+3620 Computer Graphics
+3325 Information Security (3 hours; 3 credits)
+(3 hours; 3 credits) Prerequisite: CISC 3130 and MATH 1011 or 1026 or
+Prerequisite: CIS 3320 assignment to MATH 1201.
+3330 Foundations of Parallel and Distributed 3630 Multimedia Computing
+Computing (3 hours; 3 credits)
+(3 hours; 3 credits) Prerequisite: CISC 3130.
+Prerequisite: CISC 3142; or permission of the chairperson.
+3650 Human-Computer Interaction
+3340 Computer Networks and Protocols (3 hours; 3 credits)
+(3 hours; 3 credits) Prerequisite: CISC 3115 or 3120.
+Prerequisite: CISC 3130; CISC 3305, 3310, or 3315; and
+MATH 2501. 3660 Game Programming
+(3 hours; 3 credits)
+N ot open to students who are enrolled in or have Prerequisite: CISC 3130.
+completed CISC 3343 or 3345.
+3665 Game Design
+3343 Telecommunications (3 hours; 3 credits)
+(3 hours; 3 credits) Prerequisite: CISC 3130, and MATH 1011 or 1201.
+Prerequisite: CISC 3130; CISC 3305, 3310, or 3315; and
+MATH 2501. 3667 Game Design and Development
+(4 hours; 4 credits)
+N ot open to students who are taking or have taken C Prerequisite: CISC 3130.
+ISC 3340.
+3800 Advanced Personal Computer Techniques for
+3345 Computer Networks Business Applications
+(3 hours; 3 credits) (3 hours; 3 credits)
+Prerequisite: CISC 3130; CISC 3305, 3310, or 3315. Prerequisite: CISC 1110 or 1115 or both 1113 and 1114, and
+CISC 1050, or permission of the chairperson.
+Not open to students who are taking or have taken CISC
+3340. 3810 Database Systems
+(3 hours; 3 credits)
+3350 Workstation Programming Prerequisite: CISC 3130.
+(3 hours; 3 credits)
+Prerequisite: CISC 3130. 3820 Introduction to Modeling and Simulation
+(3 hours; 3 credits)
+3390 Compiler Construction Prerequisite: CISC 1110; and MATH 3501.
+(3 hours; 3 credits)
+Prerequisite: one of CIS 2.10, 2.20, 2.30, 2.40, 2.85, CISC 4331 System and Network Administration
+1150, 1170 or 3150 or both 1113 and 1114; CISC 2210 and (2 hours lecture; 2 hours lab; 3 credits)
+3130. Prerequisite: CISC 3320 or 3350 or permission of the
+chairperson.
+3410 Artificial Intelligence
+(3 hours; 3 credits) 4335 Parallel and Distributed Computing
+36
+
+PAGE 36
+(3 hours; 3 credits) Prerequisite: CISC 3130.
+Prerequisite: CISC 3130; CISC 3305, 3310, or 3315 or Pre- or co-requisite: CISC 3220
+permission of the chairperson; and one of CISC 1150, 1170,
+3160, 3320, 3150, 3410, 3350, 3330, 3820. 4930, 4935 Advanced Computing Topics
+(3 hours; 3 credits)
+4610 Multimedia Databases Prerequisite: Dependent on course topic.
+(3 hours; 3 credits)
+Prerequisite: CISC 3810, CISC 3635 or 3630. 4940, 4945 Seminar in Theoretical Aspects of
+Information Science I, II
+4800 Special Topics in Computer Science (3 hours recitation and a minimum of 7 hours conference
+(3 hours; 3 credits) and independent work; 3 credits each term)
+Prerequisite: CIS 21 or CISC 3130; and permission of the Prerequisite: see “Honors Courses,” below.
+chairperson.
+4950, 4955 Seminar in Special Topics I, II
+4900, 4905 Independent and Group Projects I, II (3 hours recitation and a minimum of 7 hours conference
+(3 hours recitation and at least 6 hours independent work; 3 and independent work; 3 credits each term)
+credits each term) Prerequisite: see “Honors Courses,” below.
+Prerequisite of 4900: CISC 3110 or 3115 and permission of
+the chairperson. 5001, 5002, 5003, 5004 Independent Study and
+Prerequisite of 4905: CISC 4900 and permission of the Research I, II, III, IV
+chairperson. (Minimum of 9 hours conference and independent work; 3
+credits)
+4920 Programming Practicum Prerequisite: CISC 3130, a minimum GPA of 3.0 overall
+(1 hour lecture, 2 hours lab; 2 credits) and in CIS courses, and permission of the chairperson
+37
+
+PAGE 37
+XIII. Honors at Graduation
+In order to receive departmental honors at graduation, a student must be recommended by the
+department, must have an index of at least 3.50, and must have completed either an honors course or an
+honors project. Although it is necessary to take an honors course or project to receive honors at
+graduation, honors are not guaranteed. The department must vote to award departmental honors. If
+awarded, departmental honors appears as a notation on your diploma.
+Honors Courses
+Students with superior records and the recommendation of a department faculty member may apply to
+the chairperson for permission to register for courses described below. Students may not register for
+more than six credits in honors courses in the department in one term.
+4940, 4945 Seminar in Theoretical Aspects of Information Science I, II
+(3 hours recitation and a minimum of 7 hours conference and independent work; 3 credits each term)
+Prerequisite of 4940: a superior record, including an approved program of advanced courses, and
+recommendation of a department faculty member and permission of the chairperson.
+Prerequisite of 4945: CISC 4940 and permission of the chairperson.
+4950, 4955 Seminar in Special Topics I, II
+(3 hours recitation and a minimum of 7 hours conference and independent work; 3 credits each term)
+Prerequisite of 4950: a superior record, including an approved program of advanced courses, and
+recommendation of a faculty member and permission of the chairperson. Prerequisite of 4955: CISC
+4950 and permission of the chairperson.
+5001, 5002, 5003, 5004 Independent Study and Research I, II, III, IV
+(Minimum of 9 hours conference and independent work; 3 credits each term)
+Prerequisite: CISC 3130, an advanced elective in CIS numbered 23 or above, a minimum GPA of 3.0
+overall in CIS advanced electives, a declared major in the CIS department and permission of the
+chairperson.
+Honors Projects
+A student with a 3.0 index or better may arrange to do an honors project in a CIS course he or she is
+taking. In the rare case where the project is undertaken with a professor different from the instructor of
+the course, coordination should be arranged between the professor teaching the course and the professor
+supervising the research project. A student who successfully completes an honors project and receives
+an A or B in the associated course will receive honors in the course. Completing a course with honors is
+indicated on the student's transcript.
+38
+
+PAGE 38
+XIV. STUDENT SOCIETIES
+The Computer Science Society
+The Computer Science Society is a school club, composed of students interested in the field of
+computing. Students with such an interest are invited to join, regardless of their intention to major in
+computer and information science.
+The main activities of the Computer Science Society include the following: talks by guest speakers, club
+and social meetings, and access to special society offers.
+For more information about the Computer Science Society, contact its officers by leaving a note in the
+society's mailbox in Room 2109N, or contact the faculty advisor, Prof. Murray Gross. You can sign up
+for the newsletter at https://bit.ly/csclubnewsletter
+Upsilon Pi Epsilon Honor Society
+Brooklyn College has a chapter of the national Computer Science Honor Society,
+Upsilon Pi Epsilon (UPE). Students are elected to membership in this society in their junior or senior
+year, based on their academic record. More information about the society and election procedures can
+be found on the bulletin boards outside the department office.
+Women in Computer Science
+The Women in Computer Science Club strives to build a strong and supportive community for women
+in a field where they are largely underrepresented. Through events, technical workshops, and resource
+sharing, we are making Brooklyn College a place where women are encouraged to pursue a career in
+technology. Now at over 40 members and growing, the club is constantly looking for opportunities to
+expand their efforts. For information and inquiries, please e-mail bcwomenincompsci@gmail.com.
+39
+
+PAGE 39
+XV. COMPUTER AND LIBRARY FACILITIES
+CIS graduate students have access to computer facilities at Brooklyn College and limited access to other
+computing facilities across CUNY.
+CUNY Computer Facilities
+The College of Staten Island houses the CUNY High Performance Computing Center, which makes
+available to CUNY faculty and students state of the art HPCC resources and expert technical assistance
+in support of University’s research and educational activities.
+Brooklyn College Computer Facilities
+C omputer Labs
+The ITS Public Computing Labs (in the West
+Linux accounts are automatically assigned to
+End Building) now feature 250 new computers—
+students enrolled in classes which require them.
+including Linux workstations, Windows PCs,
+Students who need computer accounts for other
+and Apple Macs—in an inviting open work
+purposes should ask at the front desk of the ITS
+space. Nearby are lounge areas, study rooms,
+Public Computing Facility.
+classrooms, tutoring areas, and a
+videoconference room. Special services include
+scanning, DVD writing, and express printing. The lab has been specially designed acoustically to make
+for a quiet facility.
+Other Computer Facilities
+The CIS Department maintains an Ethernet-based network of computers for use by its faculty and other
+researchers. The network is an Internet node. Many departments have computer-based courses. To meet
+the demand for computers, there are many computer labs distributed around the campus, especially in the
+library. The Internet Café in Whitehead Hall is open 24 hours per day.
+Brooklyn College Library
+The Brooklyn College Library has numerous computers (see
+http://libguides.brooklyn.cuny.edu/computingsvcs), and it also maintains the Internet Café in Whitehead
+Hall. There is a New Media Center on the second floor. The library also has numerous computer science
+research resources available online; see http://libguides.brooklyn.cuny.edu/cis.
+40
+
+PAGE 40
+XVI. INTERNET RESOURCES
+The CIS Department's Web page is http://www.brooklyn.cuny.edu/pub/departments/cis/. Information
+about department programs is available at this site, as are links to the Web pages of various CIS faculty
+members.
+The CIStalk List
+There is a CIS email list, called CIStalk. The purpose of this list is to provide a way for CIS faculty to
+send to students and other faculty information on jobs, internships, and other articles of interest,
+Messages sent to the list are distributed via email to all subscribers to the list. The list is free, and all CIS
+students are encouraged to subscribe. Students may not post to the list due to abuses of the list in the past.
+To subscribe to the list, unsubscribe from the list, or to access an archive of past postings to the list, go to
+this page: http://www.sci.brooklyn.cuny.edu/cistalk/.
+41
+
+PAGE 41
+XVII. FULL-TIME FACULTY PROFILES
+David Arnow Amotz Bar-Noy
+Distributed programming; Design and analysis of algorithms;
+simulation of physical systems; theoretical aspects of communication
+computer science education. networks.
+arnow@sci.brooklyn.cuny.edu 1216N amotz@sci.brooklyn.cuny.edu
+718-951-5000 x2040 2112aN 718-951-5000 x2042
+Miriam Briskman Hui Chen
+No photo available
+Lecturer Mobile wireless networks, wireless sensor
+networks, system and network security,
+software engineering, probabilistic
+modeling and simulation.
+briskman@sci.brooklyn.cuny.edu chen@sci.brooklyn.cuny.edu
+1432N 718-951-2055
+42
+
+PAGE 42
+Kat Chuang James Cox
+Doctoral Lecturer Sensory-based robotics; medical imaging;
+combinatorial algorithms and
+computational complexity theory.
+chuang@sci.brooklyn.cuny.edu cox@sci.brooklyn.cuny.edu
+1212N 718-951-5000 x2069 2112cN 718-951-5000 x2047
+Devorah Kletenik Yedidyah Langsam
+Algorithms; Boolean functions; Multimedia; medical informatics; data
+computational learning theory. computer structures; personal computing and the
+science education, accessibility and Internet.
+serious games
+kletenik@sci.brooklyn.cuny.edu langsam@sci.brooklyn.cuny.edu
+5316N 718-951-5000 x1502 2109N 718-951-5657
+43
+
+PAGE 43
+Rivka Levitan Michael Mandel
+Natural language processing; spoken
+Signal processing; machine learning;
+language processing; dialogue systems;
+audio processing; noise robust automatic
+prosody and discourse
+speech recognition; psychoacoustics.
+levitan@sci.brooklyn.cuny.edu mim@sci.brooklyn.cuny.edu
+3114N 718-951-5000 x3997 2232N 718-951-5000 x2053
+Rohit Parikh Theodore Raphan
+Applications of logic to AI; logic and Modeling and simulation of eye
+semantics of programs; formal languages; movement control orientation; data
+proof theory. acquisition and analysis; mechanisms;
+models of spatial pattern recognition and
+computer vision; neural networks;
+artificial intelligence.
+rparikh@gc.cuny.edu raphan@nsi.brooklyn.cuny.edu
+1161N 718-951-5000 x2058 541NE 718-951-4193
+44
+
+PAGE 44
+Ira Rudowsky Priyanka Samanta
+Database design, analysis and Doctoral Lecturer
+implementation; multimedia databases
+intelligent agents.
+rudowsky@brooklyn.cuny.edu samanta@nsi.brooklyn.cuny.edu
+1417N 718-951-5000 x2062 541NE 718-951-4842
+Charles Schnabolk Dina Sokol
+Formal development of programs; Algorithm design and analysis; pattern
+programming languages. matching algorithms; computational
+biology; data compression.
+CSchnabo@brooklyn.cuny.edu sokol@sci.brooklyn.cuny.edu
+2118N 718-951-5000 x 2064 3209dN 718-951-5000 x2065
+45
+
+PAGE 45
+Basak Taylan Joseph Thurm
+Doctoral lecturer Database management practical uses of
+computers in business.
+basak.taylan@brooklyn.cuny.edu thurm@sci.brooklyn.cuny.edu
+3209dN 718-951-5000 x2065 2109N 718-951-5657
+Gerald Weiss Noson Yanofsky
+Object-oriented software development and Category theory. Complexity theory.
+patterns; programming languages and Higher-dimensional algebra.
+compilers; operating systems and
+constraint solving and programming;
+distributed programming.
+weiss@sci.brooklyn.cuny.edu yanofsky@sci.brooklyn.cuny.edu
+143NE 718-951-5000 x2664 1430N 718-951-5000 x2070
+46
+
+PAGE 46
+Gavriel Yarmish Neng-Fa Zhou
+Distributed and parallel optimization Programming languages abstract
+methods; optimization of large linear machines and compilers constraint solving
+optimization programs. and programming Web publishing.
+yarmish@sci.brooklyn.cuny.edu zhou@sci.brooklyn.cuny.edu
+1214N 718-951-5000 x2071 1161N 718-951-5000 x2073
+Chaim Ziegler
+No photo available.
+Multimedia systems; computer networks;
+queueing theory; computer and Internet
+telephony systems.
+ziegler@sci.brooklyn.cuny.edu
+1233N 718-951-5000 x2074
+47
+
+PAGE 47
+XVIII. STAFF AND OTHER FACULTY
+Faculty from Other Departments
+T. Amoo Finance & Business Mgmt tamoo@brooklyn.cuny.edu
+A. Gotlib Philosophy agotlib@brooklyn.cuny.edu
+Heneith Samuel Telecommunication hsamuel@brooklyn.cuny.edu
+Shaneen Singh Biology ssingh@brooklyn.cuny.edu
+Pawel Walczuk Business pawel.walczuk@brooklyn.cuny.edu
+Department Staff
+Johnathan Dixon jdixon@sci.brooklyn.cuny.edu 718-951-5000 x1538
+Lawrence Goetz goetz@sci.brooklyn.cuny.edu 718-951-5000 x2050
+Bridget Sheridan BSheridan@brooklyn.cuny.edu 718-951-5000 x2057
+Li De Zhu LiDe.Zhu@brooklyn.cuny.edu 718-951-5657
+Tiffany Beckles tiffany.beckles@brooklyn.cuny.edu 718-951-5657
+48

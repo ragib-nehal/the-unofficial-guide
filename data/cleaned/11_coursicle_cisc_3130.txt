@@ -1,9 +1,8 @@
-https://www.coursicle.com/brooklyncuny/courses/CISC/3130/
+COURSE: CISC 3130
 
-CISC 3130 at BC - 106 Reviews & Ratings, Fall 2026 professors
-CISC at BC
-CISC 3130 - Data Structures
-Professor Reviews
+TITLE: CISC 3130 - Data Structures
+
+REVIEWS:
 Rebecca Levitan
 •
 3y
@@ -16,22 +15,14 @@ Katherine Chuang
 Junior
 CISC
 This teacher is absolutely TERRIBLE! SHE DOES NOT TEACH WHATSOEVER.....the only person she is teaching the material to is herself. Everyday it's something new that she doesn't explain well or go over. She gets very dismissive and just tells the students to read the textbook. You will leave class very disturbed, confused and frustrated.
-Read all 106 reviews of CISC 3130
-Recent Professors
-Morgan Wajda-Levie, Maxim Titley, Sreehari Kalloormana, Steven Singh-Hulse, Moshe Lach, Rivka Levitan, Moshe Lowenthal, Minh Le, Gerald Weiss, Neng-Fa Zhou, Basak Taylan, Ari Mermelstein, Rebecca Levitan, Yongqing Xiang, Chaim Ziegler, Ariel Avshalumov
-Recent Semesters
-Fall 2026, Spring 2026, Fall 2025, Spring 2025, Fall 2024
 Class Size
 25-40
 Credits
 4
-Fall 2026 Sections
-View Fall 2026 sections of CISC 3130
-👟 Track which blocks you've walked in NYC
-We made WalkNYC, an app that helps you walk every block.
 Avg. Professor Rating
 52
-Description
+
+DESCRIPTION:
 4 hours; 4 creditsContainer classes: their design, implementations, and applications. Sequences: vectors, linked lists, stacks, queues, deques, lists. Associative structures: sets, maps and their hash and tree underlying representations. Sorting and searching techniques. Collection frameworks and hierarchies. Prerequisite: Computer and Information Science 3115; or 3110 and either 1115 or 1170. Enrollment Requirements: COMPUTER AND INFORMATION SCIENCE 3115; OR 3110 AND EITHER 1115 OR 1170, WITH A GRADE OF C OR HIGHER, IS REQUIRED TO TAKE THIS COURSE. Requirement Designation: Regular Liberal Arts.
 Usually Held
 TuTh (9:05am-10:45am), MW (9:05am-10:45am), W (6:30pm-10:00pm)

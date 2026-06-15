@@ -1,9 +1,5 @@
-https://brooklyncisdept.github.io/brochures/UndergradContent/courses.html
-
 Brooklyn College Department of Computer and Information Science
 Advice to Undergraduate Students
-PREVIOUS
-NEXT
 Courses Offered by the CIS Department
 CISC courses numbered 2000 and above, taken at Brooklyn College, count towards the B.S. requirement of 24 credits in advanced courses. Descriptions of courses can be found in the Undergraduate Bulletin. A form matching new and old course numbers can be found at http://www.brooklyn.cuny.edu/courses/new_crs_num.jsp.
 The Schedule of Classes published each term lists courses offered in that particular semester. Not all courses are offered each term.
@@ -281,8 +277,3 @@ Prerequisite: see Honors Courses.
 5001, 5002, 5003, 5004 Independent Study and Research I, II, III, IV
 (Minimum of 9 hours conference and independent work; 3 credits)
 Prerequisite: CISC 3130, a minimum GPA of 3.0 overall and in CIS courses, and permission of the chairperson
-PREVIOUS
-NEXT
-Advice for students considering a course of study in the Computer and Information Science department at Brooklyn College. Produced and updated by the faculty of the department. The Brooklyn College Registrar publishes the Undergraduate Bulletin and Graduate Bulletin, which contain course descriptions, and the Schedule of Classes, which lists courses offered each semester. Not all courses are offered each term. For courses taken before 2010, use this form to match current course numbers with their pre-2010 equivalents The Schedule of Classes published each term lists courses offered in that particular semester. Not all courses are offered each term.
-Questions? Consult one of the deputy chairs listed on the main page.
-This website powered by Jekyll and GitHub Pages. Source linked here. Please send website corrections to Scott Dexter, or submit a pull request to the GitHub respository.
