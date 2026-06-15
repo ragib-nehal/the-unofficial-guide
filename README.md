@@ -37,9 +37,10 @@ The domain I chose for this RAG system is CS course and professor reviews at Bro
 | 18 | Coursicle | CISC 3810 - Database Systems | https://www.coursicle.com/brooklyncuny/courses/CISC/3810/ |
 | 19 | BC CIS Department | BC CIS Department Homepage - Faculty contacts, deputy chairs, dept info | http://www.sci.brooklyn.cuny.edu/cis/ |
 | 20 | BC CIS Department | BC CS Major Requirements - Full 4-year course sequence and degree plan | https://brooklyncisdept.github.io/brochures/UndergradContent/CSmajor.html |
-| 21 | BC CIS Department | BC CISC Undergraduate Course List - All CISC course numbers and titles | https://websql.brooklyn.cuny.edu/courses/acad/courses_list.jsp?div=U&disc=CISC. |
-| 22 | BC CIS Department | BC CIS Courses Offered - Full course descriptions and prereqs | https://brooklyncisdept.github.io/brochures/UndergradContent/courses.html |
-| 23 | BC CIS Department | BC CS Undergrad Advising Guide (Java Track, 2022) - Degree requirements, concentrations, recommended course sequence | https://www.sci.brooklyn.cuny.edu/~cis/UndergradJava2022.pdf |
+| 21 | BC CIS Department | BC CIS Courses Offered - Full course descriptions and prereqs | https://brooklyncisdept.github.io/brochures/UndergradContent/courses.html |
+| 22 | BC CIS Department | BC CS Undergrad Advising Guide (Java Track, 2022) - Degree requirements, concentrations, recommended course sequence | https://www.sci.brooklyn.cuny.edu/~cis/UndergradJava2022.pdf |
+
+> **Removed source:** The BC CISC Undergraduate Course List (`https://websql.brooklyn.cuny.edu/courses/acad/courses_list.jsp?div=U&disc=CISC.`) was dropped — the URL is invalid. Course inventory is covered by source 21 instead. **Total sources: 22.**
 
 ---
 

@@ -40,9 +40,10 @@ The domain I chose for this RAG system is CS course and professor reviews at Bro
 | 18 | Coursicle | CISC 3810 - Database Systems | https://www.coursicle.com/brooklyncuny/courses/CISC/3810/ |
 | 19 | BC CIS Department | BC CIS Department Homepage - Faculty contacts, deputy chairs, dept info | http://www.sci.brooklyn.cuny.edu/cis/ |
 | 20 | BC CIS Department | BC CS Major Requirements - Full 4-year course sequence and degree plan | https://brooklyncisdept.github.io/brochures/UndergradContent/CSmajor.html |
-| 21 | BC CIS Department | BC CISC Undergraduate Course List - All CISC course numbers and titles | https://websql.brooklyn.cuny.edu/courses/acad/courses_list.jsp?div=U&disc=CISC. |
-| 22 | BC CIS Department | BC CIS Courses Offered - Full course descriptions and prereqs | https://brooklyncisdept.github.io/brochures/UndergradContent/courses.html |
-| 23 | BC CIS Department | BC CS Undergrad Advising Guide (Java Track, 2022) - Degree requirements, concentrations, recommended course sequence | https://www.sci.brooklyn.cuny.edu/~cis/UndergradJava2022.pdf |
+| 21 | BC CIS Department | BC CIS Courses Offered - Full course descriptions and prereqs | https://brooklyncisdept.github.io/brochures/UndergradContent/courses.html |
+| 22 | BC CIS Department | BC CS Undergrad Advising Guide (Java Track, 2022) - Degree requirements, concentrations, recommended course sequence | https://www.sci.brooklyn.cuny.edu/~cis/UndergradJava2022.pdf |
+
+> **Removed source:** The BC CISC Undergraduate Course List (`https://websql.brooklyn.cuny.edu/courses/acad/courses_list.jsp?div=U&disc=CISC.`) was dropped during implementation — the URL is invalid and no longer serves usable course content. Course titles and prerequisites are covered by source 21 (BC CIS Courses Offered) instead. **Total sources: 22.**
 
 ---
 
@@ -99,12 +100,12 @@ Because my sources mixes short user reviews, structured course pages, and a long
 
 | # | Question | Expected answer | Source(s) |
 |---|----------|-----------------|-------------|
-| 1 | What are the prerequisites for CISC 3130 (Data Structures)? | Must complete CISC 3115 with a C or higher first | BC CIS dept / course list |
+| 1 | What are the prerequisites for CISC 3130 (Data Structures)? | Must complete CISC 3115 with a C or higher first | BC CIS courses offered (source 21) |
 | 2 | What do students say about Moshe Lach for Data Structures? | Strong positive reviews — good at explaining, engaging | RMP source 1 |
 | 3 | Is CISC 3115 or CISC 3130 more reviewed on Coursicle? | CISC 3130 has more (106 vs 101 reviews) | Coursicle sources 10, 11 |
 | 4 | What courses are required for the CS major that involve hardware or systems? | CISC 3305 or 3310 (Architecture), CISC 3320 (OS) | BC CS major requirements |
 | 5 | What do students say about Gabriel Yarmish for CISC 1115? | Mixed — some find the pace slow or lectures unhelpful, but manageable for the material | RMP source 3 |
-| 6 | What is the recommended 4-year course schedule for a CS major? | Sem 1: CISC 1115 + MATH 1011/1201; Sem 2: CISC 2210, 3115 + MATH; Sem 3: CISC 2820W, 3130; Sem 4: CISC 3305/3310 + MATH; Sem 5: CISC 3142 + 3220/3230; Sem 6: CISC 3150, 3320 + MATH; Sem 7: CISC 4900/5001 + elective; Sem 8: electives | BC advising PDF (source 23), p. 11 |
+| 6 | What is the recommended 4-year course schedule for a CS major? | Sem 1: CISC 1115 + MATH 1011/1201; Sem 2: CISC 2210, 3115 + MATH; Sem 3: CISC 2820W, 3130; Sem 4: CISC 3305/3310 + MATH; Sem 5: CISC 3142 + 3220/3230; Sem 6: CISC 3150, 3320 + MATH; Sem 7: CISC 4900/5001 + elective; Sem 8: electives | BC advising PDF (source 22), p. 11 |
 
 ---
 
@@ -147,7 +148,7 @@ Because my sources mixes short user reviews, structured course pages, and a long
 **Milestone 3 - Ingestion and chunking:**
 
 Document Ingestion:
-I'll give Claude the source table from this planning doc which includes all 23 sources with URLs and descriptions and ask it to generate scraping scripts per source type. One for RMP pages using BeautifulSoup, one for Coursicle pages, one for the BC CIS department's HTML pages, and one using PyMuPDF for the advising PDF. I'll review each script and test against a single source before running running the rest.
+I'll give Claude the source table from this planning doc which includes all 22 sources with URLs and descriptions and ask it to generate scraping scripts per source type. One for RMP pages using BeautifulSoup, one for Coursicle pages, one for the BC CIS department's HTML pages, and one using PyMuPDF for the advising PDF. I'll review each script and test against a single source before running running the rest.
 
 Chunking:
 I'll prompt Claude with example raw output from each scraper such as a sample RMP review, a Coursicle entry, a PDF page and ask it to implement a chunk_documents() function that handles each source type. I'll include the token ranges from the architecture diagram so it knows my target sizes for each type of source. 
