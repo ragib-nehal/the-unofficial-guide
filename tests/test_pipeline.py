@@ -77,7 +77,7 @@ class PipelineBehaviorTests(unittest.TestCase):
         cleaned = clean_document(doc)
 
         self.assertIn("PROFESSOR: Moshe Lach", cleaned.text)
-        self.assertIn("COURSE: CISC3130", cleaned.text)
+        self.assertIn("COURSE: CISC3130 (Data Structures)", cleaned.text)
         self.assertIn("REVIEW: Really good professor", cleaned.text)
         self.assertIn("TAGS: Amazing lectures, Lots of homework", cleaned.text)
         self.assertNotIn("Logo", cleaned.text)

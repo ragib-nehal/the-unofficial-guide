@@ -1,20 +1,20 @@
 PROFESSOR: Basak Taylan | Computer Science | Brooklyn College
 ---
-QUALITY: 4.0 | DIFFICULTY: 1.0 | COURSE: CISC1115 | DATE: Dec 15th, 2025
+QUALITY: 4.0 | DIFFICULTY: 1.0 | COURSE: CISC1115 (Introduction to Programming Using Java) | DATE: Dec 15th, 2025
 DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Textbook: N/A
 REVIEW: I failed the class, but that's more on me rather than the Professor. I'm not a CS major, nor do I like it. I ended up taking 1050, a beginner course, later, and got my requirement completed. On her own, she's a great Professor and tries her best to make sure you understand the material. If you want to get into Java, then she's the best to have.
 ---
-QUALITY: 5.0 | DIFFICULTY: 1.0 | COURSE: CISC1115 | DATE: Aug 27th, 2025
+QUALITY: 5.0 | DIFFICULTY: 1.0 | COURSE: CISC1115 (Introduction to Programming Using Java) | DATE: Aug 27th, 2025
 DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A+ | Textbook: N/A
 REVIEW: great professor, no complaints
 TAGS: Amazing lectures, Inspirational, Caring
 ---
-QUALITY: 5.0 | DIFFICULTY: 4.0 | COURSE: CISC1115 | DATE: Aug 26th, 2025
+QUALITY: 5.0 | DIFFICULTY: 4.0 | COURSE: CISC1115 (Introduction to Programming Using Java) | DATE: Aug 26th, 2025
 DETAILS: Would Take Again: Yes
 REVIEW: It's a tough class but if you take notes and study them, you'll do good.
 TAGS: Amazing lectures, Lots of homework
 ---
-QUALITY: 5.0 | DIFFICULTY: 4.0 | COURSE: CISC1115 | DATE: Jul 7th, 2025
+QUALITY: 5.0 | DIFFICULTY: 4.0 | COURSE: CISC1115 (Introduction to Programming Using Java) | DATE: Jul 7th, 2025
 DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Textbook: N/A
 REVIEW: Professor Taylan is very kneadable and good at breaking down difficult concepts. She is encouraging student questions and answers them clearly. There are 20+ labs. Midterms are similar to labs but final exam is departmental.
 TAGS: Amazing lectures, Inspirational, Online Savvy

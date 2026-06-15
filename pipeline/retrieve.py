@@ -13,7 +13,30 @@ _STOPWORDS = {
     "what", "the", "is", "are", "for", "a", "an", "in", "of",
     "or", "and", "do", "does", "how", "which", "that", "this",
     "to", "about", "with", "have", "i", "at", "from", "can", "be",
-    "course", "courses", "student", "students",
+    "course", "courses", "student", "students", "data", "structures",
+}
+
+PROFESSOR_NAMES = (
+    "Moshe Lach",
+    "Basak Taylan",
+    "Gabriel Yarmish",
+    "Noson Yanofsky",
+    "Kleanthis Psarris",
+    "Hui Chen",
+    "Matthew Mcneill",
+    "Robert Zwick",
+)
+
+COURSE_ALIASES = {
+    "data structures": "CISC3130",
+    "data structure": "CISC3130",
+    "modern programming techniques": "CISC3115",
+    "advanced programming techniques": "CISC3110",
+    "computer architecture": "CISC3310",
+    "operating systems": "CISC3320",
+    "artificial intelligence": "CISC3410",
+    "machine learning": "CISC3440",
+    "database systems": "CISC3810",
 }
 
 
@@ -73,8 +96,28 @@ def retrieve(
 
 
 def _extract_keywords(query: str) -> list[str]:
-    tokens = re.findall(r"[a-zA-Z]+", query.lower())
-    return [t for t in tokens if t not in _STOPWORDS and len(t) >= 4]
+    query_lower = query.lower()
+    keywords: list[str] = []
+
+    for name in PROFESSOR_NAMES:
+        if name.lower() in query_lower:
+            keywords.append(name)
+
+    for phrase, course_number in COURSE_ALIASES.items():
+        if phrase in query_lower:
+            keywords.append(course_number)
+
+    for course_number in re.findall(r"\b(?:CISC\s*)?(\d{4}[A-Z]?)\b", query, flags=re.IGNORECASE):
+        keywords.append(f"CISC{course_number.upper()}")
+
+    alpha_tokens = re.findall(r"[a-zA-Z]+", query)
+    alpha_kws = [
+        token if token[:1].isupper() else token.lower()
+        for token in alpha_tokens
+        if token.lower() not in _STOPWORDS and len(token) >= 4
+    ]
+    keywords.extend(alpha_kws)
+    return list(dict.fromkeys(keywords))
 
 
 def _keyword_fetch(
@@ -86,13 +129,7 @@ def _keyword_fetch(
     seen: set[str] = set(exclude_ids)
     results: list[dict[str, Any]] = []
     for kw in keywords:
-        try:
-            fetched = collection.get(
-                where_document={"$contains": kw},
-                include=["documents", "metadatas"],
-            )
-        except Exception:
-            continue
+        fetched = _fetch_keyword(collection, kw)
         for chunk_id, text, metadata in zip(
             fetched["ids"], fetched["documents"], fetched["metadatas"]
         ):
@@ -110,3 +147,23 @@ def _keyword_fetch(
             if len(results) >= limit:
                 return results
     return results
+
+
+def _fetch_keyword(collection: chromadb.Collection, keyword: str) -> dict[str, list[Any]]:
+    if " " in keyword:
+        return _safe_get(collection, where={"professor_name": keyword})
+    if re.fullmatch(r"(?:CISC)?\d{4}[A-Z]?", keyword, flags=re.IGNORECASE):
+        course_number = keyword.upper() if keyword.upper().startswith("CISC") else f"CISC{keyword}"
+        return _safe_get(collection, where={"course_number": course_number})
+
+    fetched = _safe_get(collection, where_document={"$contains": keyword})
+    if not fetched["ids"] and keyword.islower():
+        return _safe_get(collection, where_document={"$contains": keyword.title()})
+    return fetched
+
+
+def _safe_get(collection: chromadb.Collection, **kwargs: Any) -> dict[str, list[Any]]:
+    try:
+        return collection.get(include=["documents", "metadatas"], **kwargs)
+    except Exception:
+        return {"ids": [], "documents": [], "metadatas": []}

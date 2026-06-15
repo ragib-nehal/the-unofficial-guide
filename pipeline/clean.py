@@ -71,6 +71,17 @@ BOILERPLATE_PREFIXES = (
     "Sam Bankman",
 )
 
+COURSE_TITLES = {
+    "CISC1115": "Introduction to Programming Using Java",
+    "CISC3110": "Advanced Programming Techniques",
+    "CISC3115": "Modern Programming Techniques",
+    "CISC3130": "Data Structures",
+    "CISC3230": "Algorithms",
+    "CISC3310": "Computer Architecture",
+    "CISC3410": "Artificial Intelligence",
+    "CISC3810": "Database Systems",
+}
+
 
 def clean_documents(documents: list[Document]) -> list[CleanedDocument]:
     return [clean_document(document) for document in documents]
@@ -280,7 +291,9 @@ def _parse_rmp_reviews(lines: list[str]) -> list[str]:
         if not review_text:
             continue
         field_text = " | ".join(fields)
-        parts = [f"QUALITY: {quality} | DIFFICULTY: {difficulty} | COURSE: {course} | DATE: {date}"]
+        parts = [
+            f"QUALITY: {quality} | DIFFICULTY: {difficulty} | COURSE: {_course_label(course)} | DATE: {date}"
+        ]
         if field_text:
             parts.append(f"DETAILS: {field_text}")
         parts.append(f"REVIEW: {review_text}")
@@ -315,6 +328,11 @@ def _is_course_code(line: str) -> bool:
 
 def _is_review_date(line: str) -> bool:
     return bool(re.fullmatch(r"[A-Z][a-z]{2} \d{1,2}(st|nd|rd|th), \d{4}", line))
+
+
+def _course_label(course: str) -> str:
+    title = COURSE_TITLES.get(course)
+    return f"{course} ({title})" if title else course
 
 
 def _format_coursicle_reviews(lines: list[str]) -> str:

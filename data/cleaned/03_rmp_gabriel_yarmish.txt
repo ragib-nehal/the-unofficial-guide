@@ -1,11 +1,11 @@
 PROFESSOR: Gabriel Yarmish | Computer Science | Brooklyn College
 ---
-QUALITY: 5.0 | DIFFICULTY: 5.0 | COURSE: CISC1115 | DATE: Dec 24th, 2025
+QUALITY: 5.0 | DIFFICULTY: 5.0 | COURSE: CISC1115 (Introduction to Programming Using Java) | DATE: Dec 24th, 2025
 DETAILS: For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A- | Textbook: N/A
 REVIEW: As a student with no prior coding experience, I found this class challenging, but the professor is very kind and supportive. He explains problems clearly and is willing to help. Most of the grade is exam-based. I recommend completing all coding labs, using tutoring resources, watching Java videos, and asking questions to succeed.
 TAGS: Clear grading criteria, Test heavy, Graded by few things
 ---
-QUALITY: 2.0 | DIFFICULTY: 3.0 | COURSE: CISC1115 | DATE: Dec 16th, 2025
+QUALITY: 2.0 | DIFFICULTY: 3.0 | COURSE: CISC1115 (Introduction to Programming Using Java) | DATE: Dec 16th, 2025
 DETAILS: For Credit: Yes | Attendance: Not Mandatory | Grade: Rather not say | Textbook: N/A
 REVIEW: Hes not very enthusiastic about the topics hes teaching, if you want to learn and actually enjoy the process of your learning then do not take him. Chances are you will feel flat about being in the class. - i highly recommend looking into your other options.
 ---
@@ -13,7 +13,7 @@ QUALITY: 5.0 | DIFFICULTY: 3.0 | COURSE: BUSN3430 | DATE: Oct 21st, 2025
 DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A+ | Textbook: Yes
 REVIEW: He is worth taking. Explained the concepts well, and a good format with the exams. Posted additional videos to review, everything is on the Blackboard to succeed.
 ---
-QUALITY: 1.0 | DIFFICULTY: 4.0 | COURSE: CISC1115 | DATE: Apr 30th, 2025
+QUALITY: 1.0 | DIFFICULTY: 4.0 | COURSE: CISC1115 (Introduction to Programming Using Java) | DATE: Apr 30th, 2025
 DETAILS: For Credit: Yes | Attendance: Mandatory | Grade: Rather not say | Textbook: N/A
 REVIEW: Was the last available professor and it shows. He didn't even make the slides himself and seemed lost when he would pull them up. He often had to goggle what was happening on a slide or would get corrected by a student who alr knew Java. Only graded on tests. Don't take him unless you're familiar with coding or are ready to have to teach yourself.
 TAGS: Lecture heavy, Test heavy, Graded by few things

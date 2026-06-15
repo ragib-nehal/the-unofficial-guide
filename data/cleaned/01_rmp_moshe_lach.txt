@@ -1,26 +1,26 @@
 PROFESSOR: Moshe Lach | Computer Science | Brooklyn College
 ---
-QUALITY: 5.0 | DIFFICULTY: 5.0 | COURSE: CISC3230 | DATE: May 24th, 2026
+QUALITY: 5.0 | DIFFICULTY: 5.0 | COURSE: CISC3230 (Algorithms) | DATE: May 24th, 2026
 DETAILS: For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A | Textbook: Yes
 REVIEW: Amazing professor gave us a link to the textbook, homework was not mandatory and we had reviews before everything and a lot of curves
 TAGS: Amazing lectures, Caring
 ---
-QUALITY: 5.0 | DIFFICULTY: 2.0 | COURSE: CISC1115 | DATE: Mar 26th, 2026
+QUALITY: 5.0 | DIFFICULTY: 2.0 | COURSE: CISC1115 (Introduction to Programming Using Java) | DATE: Mar 26th, 2026
 DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: B | Textbook: Yes
 REVIEW: Best professor for CISC1115, take him if you have no experience with Java. There are 5 quiz for a semester which he gives quiz for question that are exactly like codelab, quiz are worth 12% of your grade each, 60% total. And plus 5% attendance 5% codelab homework and 30% final exam. He gives good review for final. He curved my grade from c+ to b
 TAGS: Clear grading criteria, Caring, Respected
 ---
-QUALITY: 5.0 | DIFFICULTY: 2.0 | COURSE: CISC3115 | DATE: Mar 23rd, 2026
+QUALITY: 5.0 | DIFFICULTY: 2.0 | COURSE: CISC3115 (Modern Programming Techniques) | DATE: Mar 23rd, 2026
 DETAILS: For Credit: Yes | Attendance: Mandatory | Would Take Again: Yes | Grade: A
 REVIEW: Literally the best professor in the entire department If theres a required class and hes teaching it, enroll. Even if its in the winter or summer, enroll. A professor like him is few and far between for this major at this college, the alternative is usually a dying dinosaur who has a lot of 1/5 reviews
 TAGS: Caring, Respected, Lecture heavy
 ---
-QUALITY: 5.0 | DIFFICULTY: 2.0 | COURSE: CISC3130 | DATE: Jan 27th, 2026
+QUALITY: 5.0 | DIFFICULTY: 2.0 | COURSE: CISC3130 (Data Structures) | DATE: Jan 27th, 2026
 DETAILS: For Credit: Yes | Would Take Again: Yes | Textbook: N/A
 REVIEW: Really good professors. He bases his quizzes/ test based on the HW he assigns. If you do the HW and study it, youll pass.
 TAGS: Amazing lectures, Lots of homework, Test heavy
 ---
-QUALITY: 5.0 | DIFFICULTY: 3.0 | COURSE: CISC3130 | DATE: Jan 25th, 2026
+QUALITY: 5.0 | DIFFICULTY: 3.0 | COURSE: CISC3130 (Data Structures) | DATE: Jan 25th, 2026
 DETAILS: For Credit: Yes | Attendance: Not Mandatory | Would Take Again: Yes | Grade: A- | Textbook: Yes
 REVIEW: Attend the lectures, study, and you will do fine. He is a very knowledge instructor. His class will tenfold your capabilities, especially if you're learning the material for the first time. All material discussed in class is essential to the overall success of the course.
 TAGS: Lecture heavy, Graded by few things, Accessible outside class
