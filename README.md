@@ -9,31 +9,37 @@
 
 ## Domain
 
-<!-- What topic or category of knowledge does your system cover?
-     Why is this knowledge valuable, and why is it hard to find through official channels?
-     Example: "Student reviews of CS professors at [university] — useful because official
-     course descriptions don't reflect teaching style, exam difficulty, or workload." -->
+The domain I chose for this RAG system is CS course and professor reviews at Brooklyn College. There are a number of factors that make this domain rather niche and harder to locate. The targeted audience for this system would be a new CS student at Brooklyn College who is unfamilar with the department and wants to get accurate information from trusted sources. Oftentimes, new students aren't aware of these platforms and it can also be a tedious task to research your particular query. This system takes a holistic approach as it can answer a wide variety of queries regarding CS at Brooklyn College. Additionally, Brooklyn College's CS program is rather small compared to other big names, which may show better results when searching for information.
 
 ---
 
 ## Document Sources
 
-<!-- List every source you collected documents from.
-     Be specific: include URLs, subreddit names, forum thread titles, or file names.
-     Aim for variety — sources that together cover different subtopics or perspectives. -->
-
-| # | Source | Type | URL or file path |
-|---|--------|------|-----------------|
-| 1 | | | |
-| 2 | | | |
-| 3 | | | |
-| 4 | | | |
-| 5 | | | |
-| 6 | | | |
-| 7 | | | |
-| 8 | | | |
-| 9 | | | |
-| 10 | | | |
+| # | Source | Description | URL or file path |
+|---|--------|-------------|-----------------|
+| 1 | Rate My Professors | Moshe Lach - Highly rated CS professor, strong reviews for Data Structures | https://www.ratemyprofessors.com/professor/2538695 |
+| 2 | Rate My Professors | Basak Taylan - Well-regarded for CISC 3115 (Java/OOP) | https://www.ratemyprofessors.com/professor/2363018 |
+| 3 | Rate My Professors | Gabriel Yarmish - Teaches intro Java (CISC 1115), mixed reviews | https://www.ratemyprofessors.com/professor/404370 |
+| 4 | Rate My Professors | Noson Yanofsky - Theory courses, polarizing reviews | https://www.ratemyprofessors.com/professor/78366 |
+| 5 | Rate My Professors | Kleanthis Psarris - Tough grader, theory/architecture track | https://www.ratemyprofessors.com/professor/2939406 |
+| 6 | Rate My Professors | Hui Chen - Software engineering, mobile apps, dept contact for CISC 1170 | https://www.ratemyprofessors.com/professor/2429486 |
+| 7 | Rate My Professors | Matthew McNeill - Teaches Python (CISC 1215), positive reviews | https://www.ratemyprofessors.com/professor/2760709 |
+| 8 | Rate My Professors | Robert Zwick - Teaches CISC 2820W (Ethics), manageable workload | https://www.ratemyprofessors.com/professor/1750106 |
+| 9 | Coursicle | CISC 1115 - Intro to Java, first required CS course for most majors | https://www.coursicle.com/brooklyncuny/courses/CISC/1115/ |
+| 10 | Coursicle | CISC 3115 - Modern Programming Techniques (OOP, Java), 101 reviews | https://www.coursicle.com/brooklyncuny/courses/CISC/3115/ |
+| 11 | Coursicle | CISC 3130 - Data Structures, most-reviewed CS course (106 reviews) | https://www.coursicle.com/brooklyncuny/courses/CISC/3130/ |
+| 12 | Coursicle | CISC 3110 - Advanced Programming Techniques, 49 reviews | https://www.coursicle.com/brooklyncuny/courses/CISC/3110/ |
+| 13 | Coursicle | CISC 3310 - Computer Architecture, 43 reviews | https://www.coursicle.com/brooklyncuny/courses/CISC/3310/ |
+| 14 | Coursicle | CISC 3320 - Operating Systems, 28 reviews | https://www.coursicle.com/brooklyncuny/courses/CISC/3320/ |
+| 15 | Coursicle | CISC 2820W - Computers and Ethics (writing intensive), 76 reviews | https://www.coursicle.com/brooklyncuny/courses/CISC/2820W/ |
+| 16 | Coursicle | CISC 3410 - Artificial Intelligence, 13 reviews | https://www.coursicle.com/brooklyncuny/courses/CISC/3410/ |
+| 17 | Coursicle | CISC 3440 - Machine Learning | https://www.coursicle.com/brooklyncuny/courses/CISC/3440/ |
+| 18 | Coursicle | CISC 3810 - Database Systems | https://www.coursicle.com/brooklyncuny/courses/CISC/3810/ |
+| 19 | BC CIS Department | BC CIS Department Homepage - Faculty contacts, deputy chairs, dept info | http://www.sci.brooklyn.cuny.edu/cis/ |
+| 20 | BC CIS Department | BC CS Major Requirements - Full 4-year course sequence and degree plan | https://brooklyncisdept.github.io/brochures/UndergradContent/CSmajor.html |
+| 21 | BC CIS Department | BC CISC Undergraduate Course List - All CISC course numbers and titles | https://websql.brooklyn.cuny.edu/courses/acad/courses_list.jsp?div=U&disc=CISC. |
+| 22 | BC CIS Department | BC CIS Courses Offered - Full course descriptions and prereqs | https://brooklyncisdept.github.io/brochures/UndergradContent/courses.html |
+| 23 | BC CIS Department | BC CS Undergrad Advising Guide (Java Track, 2022) - Degree requirements, concentrations, recommended course sequence | https://www.sci.brooklyn.cuny.edu/~cis/UndergradJava2022.pdf |
 
 ---
 
@@ -48,9 +54,23 @@
 
 **Chunk size:**
 
+| Source type | Strategy | Chunk size |
+|-------------|----------|------------|
+| Rate My Professors | One review = one chunk | ~100–200 tokens per review |
+| Coursicle | Semantic / section-based | 250 tokens |
+| PDF (advising guide) | Recursive splitting | 1000–1500 tokens |
+
 **Overlap:**
 
+| Source type | Overlap |
+|-------------|---------|
+| Rate My Professors | ~20 tokens (minimal; reviews are self-contained) |
+| Coursicle | 25 tokens |
+| PDF (advising guide) | 150–250 tokens |
+
 **Why these choices fit your documents:**
+
+Because my sources mix short user reviews, structured course pages, and a long degree-plan PDF, chunking is source-specific rather than one standardized length. RMP reviews are already structured units of student opinion, so each review becomes its own chunk with only light overlap to preserve context at boundaries when a review is long. Coursicle pages are split by section (course description, reviews, schedule info) with moderate 250-token windows and small overlap so related sentences stay together without merging unrelated course details. The PDF advising guide is long and hierarchical, so recursive splitting with larger 1000–1500 token chunks and 150–250 token overlap keeps degree requirements and prerequisite sections intact across chunk boundaries; images and diagrams in the PDF are dropped during ingestion.
 
 **Final chunk count:**
 
@@ -64,9 +84,11 @@
      Consider: context length limits, multilingual support, accuracy on domain-specific text,
      latency, and local vs. API-hosted. -->
 
-**Model used:**
+**Model used:** all-MiniLM-L6-v2 via sentence-transformers
 
 **Production tradeoff reflection:**
+
+There are various production tradeoffs that I made by using MiniLM and choosing a k value of 5. For a personal project on a narrow domain like CS professor and course reviews at Brooklyn College, this model can run fast on a local setup. It may, however, struggle with long-form documents like PDFs and text may get cut off. MiniLM keeps data local, while managed services or APIs may omit that security and add cost and dependency. A k value of 5 seems like a good starting number to test; a higher value will result in better chunk retrieval for broad questions like degree planning.
 
 ---
 
